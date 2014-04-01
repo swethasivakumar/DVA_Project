@@ -1,0 +1,34 @@
+Authorized API Access
+OAuth 2.0 allows users to share specific data with you (for example, contact lists) while keeping their usernames, passwords, and other information private. A single project may contain up to 20 client IDs. Learn more
+Branding information
+The following information is shown to users whenever you request access to their private data.
+Product name:	DavaProject
+Google account:	gtproject2014@gmail.com
+Edit branding information...
+Client ID for web applications
+Client ID:	
+361376394919.apps.googleusercontent.com
+Email address:	
+361376394919@developer.gserviceaccount.com
+Client secret:	
+7kjKEyG59oCfZA_9knUpDeqe
+Redirect URIs:	http://localhost/oauth2callback
+JavaScript origins:	http://localhost
+Edit settings...
+Reset client secret...
+Download JSON
+Delete...
+Create another client ID...
+Simple API Access
+Use API keys to identify your project when you do not need to access user data. Learn more
+Key for browser apps (with referers)
+API key:	
+AIzaSyC9ymJowQNoLdgh1kW8aPwiL8wbLRLbKy0
+Referers:	
+Any referer allowed
+Activated on:	Mar 31, 2014 10:48 PM
+Activated by:	 gtproject2014@gmail.com – you
+Generate new key...
+Edit allowed referers...
+Delete key...
+Create new Server key... Create new Browser key... Create new Android key... Create new iOS key...
