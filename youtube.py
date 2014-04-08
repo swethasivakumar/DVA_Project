@@ -18,7 +18,12 @@ def comments_generator(client, video_id):
 client = service.YouTubeService()
 client.ClientLogin(USERNAME, PASSWORD)
 
+'''f = open('testID.txt', 'r')
+for line in f:
+	VIDEO_ID = line
+	print line'''
 for comment in comments_generator(client, VIDEO_ID):
-    author_name = comment.author[0].name.text
-    text = comment.content.text
-    print("{}: {}".format(author_name, text))
+    	author_name = comment.author[0].name.text
+    	text = comment.content.text
+    	print("{}: {}".format(author_name, text))
+print "$$$$"
