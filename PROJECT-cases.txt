@@ -1,0 +1,6 @@
+
+
+    A 200 response code indicates that YouTube successfully handled an HTTP GET request to retrieve a feed.
+
+    A 400 response code identifies a bad request. For example, you will receive a 400 response code if you submit a request to the wrong URL or include an unsupported or nonexistent parameter in your request. The API response content will explain the reason why the API returned a 400 response code.
+
