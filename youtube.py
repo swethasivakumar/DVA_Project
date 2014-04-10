@@ -2,7 +2,7 @@ from gdata.youtube import service
 
 USERNAME = 'gtproject2014@gmail.com'
 PASSWORD = 'davaproject2014'
-#VIDEO_ID = 'mE295ggKbHU'
+VIDEO_ID = 'zHRQ49cohEw'
 
 def comments_generator(client, video_id):
     comment_feed = client.GetYouTubeVideoCommentFeed(video_id=video_id)
@@ -17,13 +17,13 @@ def comments_generator(client, video_id):
 
 client = service.YouTubeService()
 client.ClientLogin(USERNAME, PASSWORD)
-fp = open('comments20.txt','a+')
-f = open('ID20.txt', 'r')
-for line in f:
+fp = open('comments2.txt','a+')
+#f = open('testID.txt', 'r')
+'''for line in f:
 	VIDEO_ID = line
-	print line
-	for comment in comments_generator(client, VIDEO_ID):
-    		author_name = comment.author[0].name.text
-    		text = comment.content.text
-    		fp.write("{}: {}".format(author_name, text))
-	fp.write("$$$$")
+	print line'''
+for comment in comments_generator(client, VIDEO_ID):
+    	author_name = comment.author[0].name.text
+    	text = comment.content.text
+    	fp.write("{}: {}".format(author_name, text))
+fp.write("$$$$")
