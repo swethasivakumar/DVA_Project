@@ -13,8 +13,6 @@ def getVideoStats(viewCount,likeCount,dislikeCount,favoriteCount,commentCount,fn
 
 	with open(fname,'r') as f:
 		data=f.readlines()
-
-		#print data
 		n=0
 		for movie in data:
 			print movie
@@ -92,6 +90,3 @@ if __name__=="__main__":
 	videoStats=getVideoStats(viewCount,likeCount,dislikeCount,favoriteCount,commentCount,'movies20.txt')
 
 	getPickledFile(videoStats,'videoStats20.p')
-
-
-	#print videoStats
