@@ -24,8 +24,8 @@ def getProcessedComments(movieNames,commentsList,unwantedSyms):
 						break
 				if flag==0:
 					string+=word+' '
-		processedComments.append(string)
-		comments[movieNames[n]]=processedComments
+		#processedComments.append(string)
+		comments[movieNames[n]]=string
 		n=n+1
 	return comments
 
@@ -62,10 +62,5 @@ if __name__=="__main__":
 			movieNames.append(name)
 	
 	comments=getProcessedComments(movieNames,commentsList,unwantedSyms)
-	print comments
-
-
+	
 	getPickledFile(comments,'comments20.p')
-
-
-	#print videoStats
