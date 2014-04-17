@@ -3,8 +3,8 @@ import requests
 baseURL = "https://www.googleapis.com/youtube/v3/videos?id="
 API_KEY = 'AIzaSyC9ymJowQNoLdgh1kW8aPwiL8wbLRLbKy0'
 parameters = '&part=statistics'
-fp = open('videoStats20.txt','a+')
-f = open('ID20.txt','r')
+fp = open('videoStats120.txt','a+')
+f = open('ID120.txt','r')
 for line in f:
 	finalURL = baseURL + line + "&key=" + API_KEY + parameters
 	print finalURL
