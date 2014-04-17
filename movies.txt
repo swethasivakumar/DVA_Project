@@ -32,8 +32,6 @@ Million Dollar Baby
 The Dark Knight 
 Precious 
 Crash 
-Ray 
-Gangs of New York 
 The Aviator 
 Munich 
 Inglourious Basterds 
@@ -41,7 +39,6 @@ In the Mood for Love
 Shrek 
 Almost Famous 
 Memento 
-Babel 
 Harry Potter and the Sorcerers Stone 
 Master and Commander: The Far Side of the World 
 Talk to Her 
@@ -62,7 +59,6 @@ Little Miss Sunshine
 Harry Potter and the Chamber of Secrets 
 Oldboy 
 Star Wars: Episode III 
-Seabiscuit 
 The Class 
 4 Months, 3 Weeks, and 2 Days 
 Crazy Heart 
@@ -91,7 +87,6 @@ The Blind Side
 A History of Violence 
 The Others 
 Finding Nemo 
-The Prestige 
 Before Sunset 
 Cold Mountain 
 Erin Brockovich 

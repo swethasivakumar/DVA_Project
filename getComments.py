@@ -20,8 +20,8 @@ def comments_generator(client, video_id):
 
 client = service.YouTubeService()
 client.ClientLogin(USERNAME, PASSWORD)
-fp = open('comments20.txt','a+')
-f = open('ID20.txt', 'r')
+fp = open('commentsrest.txt','a+')
+f = open('IDrest.txt', 'r')
 for line in f:
 	#VIDEO_ID = str(line)
 #	if(str(line) == VIDEO_ID):
@@ -36,7 +36,8 @@ for line in f:
 		print "reaches here"
     		author_name = comment.author[0].name.text
     		text = comment.content.text
-    		fp.write("{}: {}".format(author_name, text))
-	fp.write("\n")
+    		fp.write("{}".format(text))
+		fp.write("\n");
 	fp.write("$$$$")
+	fp.write("\n");
 fp.close()
