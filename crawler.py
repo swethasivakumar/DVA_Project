@@ -3,14 +3,23 @@ from contextlib import closing
 from selenium.webdriver import Firefox
 from selenium.webdriver.support.ui import WebDriverWait
 
+f = open("movieCollections.txt",'a+')
+fp = open("imdbtest.txt","r") 
+baseURL = "http://www.imdb.com/title/"
+parameters = "/business?ref_=tt_dt_bus"
+
 with closing(Firefox()) as browser:
-    browser.get('http://www.imdb.com/title/tt0337978/business?ref_=tt_dt_bus')
-    def find(browser):
-        e = browser.find_element_by_id("tn15content")
-        if(e.text == "Calculating..."):
-            return False    
-        return e
-    e = WebDriverWait(browser, 20).until(find)
-    allText = e.text
-    allTextArray = allText.split('\n')
-    print allTextArray[4]
+    for line in fp:
+	finalURL = baseURL + str(line) + parameters
+    	browser.get(finalURL)
+    	def find(browser):
+        	e = browser.find_element_by_id("tn15content")
+        	if(e.text == "Calculating..."):
+            		return False    
+        	return e
+    	e = WebDriverWait(browser, 20).until(find)
+    	allText = e.text
+    	allTextArray = allText.split('\n')
+	collections = allTextArray[4].split()
+    	f.write(collections[0])
+	f.write("\n")
