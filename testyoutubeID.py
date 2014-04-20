@@ -20,8 +20,8 @@ def youtube_search(options):
     part="id,snippet",
     maxResults=options.max_results
   ).execute()'''
-	f = open('ID120.txt','a')
-	fp = open('trailers120.txt','r')
+	f = open('55youtubeID.txt','a')
+	fp = open('55trailers.txt','r')
 	for line in fp:
 		search_response = youtube.search().list(q=line,part="id",maxResults=options.max_results
 ,type="video",fields="items/id").execute()
