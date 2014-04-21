@@ -1,0 +1,6647 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/m_WT-R949nVOkehiKX4BXckc_08\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/PlOWiLcDi3N3GqwLuaoQtnjE6aE\"",
+   "id": "EXeTwQWrcwY",
+   "statistics": {
+    "viewCount": "46221",
+    "likeCount": "162",
+    "dislikeCount": "13",
+    "favoriteCount": "0",
+    "commentCount": "14"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/PNvwa7As8WeXl8lmKSmNlPeGhn4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/nRu3h273L7ULULihgNnnYcUgc50\"",
+   "id": "UrIbxk7idYA",
+   "statistics": {
+    "viewCount": "840683",
+    "likeCount": "2369",
+    "dislikeCount": "103",
+    "favoriteCount": "0",
+    "commentCount": "64"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/3cjggia1EG4XTSYHyqobBHaonIk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/7gei7-sLxGNCYD8zxT_lVXakWLk\"",
+   "id": "KAOmTMCtGkI",
+   "statistics": {
+    "viewCount": "1433930",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "5"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-MOLmwNldHzesBHs-zaATzap96Y\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/EV1YKqVEUzSA2YefMsANeZXeZOY\"",
+   "id": "uwTKRz-WmHU",
+   "statistics": {
+    "viewCount": "74108",
+    "likeCount": "60",
+    "dislikeCount": "4",
+    "favoriteCount": "0",
+    "commentCount": "5"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/HvkH-XXqjHKJlg550GQ5wXufFB8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/rrql2BYFvunoNMdSd9w3atFVzMA\"",
+   "id": "V75dMMIW2B4",
+   "statistics": {
+    "viewCount": "269111",
+    "likeCount": "683",
+    "dislikeCount": "29",
+    "favoriteCount": "0",
+    "commentCount": "211"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/I0UebEkDmoJ9elt_1FB2cNNh4Ow\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/kjw-xNCjkLFo8t0dS-53SXGUHX8\"",
+   "id": "bK_Y5LjSJ-Y",
+   "statistics": {
+    "viewCount": "26302",
+    "likeCount": "47",
+    "dislikeCount": "6",
+    "favoriteCount": "0",
+    "commentCount": "16"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/RrLvsZPVcr19uxUYLT0lFnaevnw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/YSL4uVw91OANO_33MY_kzkfNh78\"",
+   "id": "OmaI1nInDOs",
+   "statistics": {
+    "viewCount": "6761529",
+    "likeCount": "18542",
+    "dislikeCount": "728",
+    "favoriteCount": "0",
+    "commentCount": "4780"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/vA1mS6otqmGmA1vojvOZeSjtyog\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bfaTwfjhgMy1mJSHa9jQouGDsQA\"",
+   "id": "27dZ5mJBnBY",
+   "statistics": {
+    "viewCount": "270807",
+    "likeCount": "260",
+    "dislikeCount": "33",
+    "favoriteCount": "0",
+    "commentCount": "55"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/UVJJcX717g1nXJBM8UvS_DLqyF0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/WLXhzkSYL8gLaKV2qcC-pqqhxuE\"",
+   "id": "L8-e_VdwAME",
+   "statistics": {
+    "viewCount": "222770",
+    "likeCount": "2232",
+    "dislikeCount": "28",
+    "favoriteCount": "0",
+    "commentCount": "377"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/INpDEE-VKkwavW26aqfX0dN89Dk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/DCISwOG44-EPRZeDlG8We233jsg\"",
+   "id": "kkzcNF-jlWw",
+   "statistics": {
+    "viewCount": "2897445",
+    "likeCount": "3113",
+    "dislikeCount": "180",
+    "favoriteCount": "0",
+    "commentCount": "1548"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/RbG4WFVynRvo3Gfl0IVUQvwikGs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/gMiZF1cvwXsAN0fSALxxbFzqoe0\"",
+   "id": "KdzH6a-XEGM",
+   "statistics": {
+    "viewCount": "2698565",
+    "likeCount": "3102",
+    "dislikeCount": "143",
+    "favoriteCount": "0",
+    "commentCount": "1452"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/jogT-zIncrwHb-K2LhC5PGgi5kY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VWP4YDR2KBRXmQ3nYPIgkVnadco\"",
+   "id": "vak9ZLfhGnQ",
+   "statistics": {
+    "viewCount": "2332958",
+    "likeCount": "3976",
+    "dislikeCount": "148",
+    "favoriteCount": "0",
+    "commentCount": "2665"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/nQDvfjAteXa1oqQm1u6SQCROgeE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/TTmeyzR5h8YdOz5tn2ig2MYF3Qw\"",
+   "id": "edLB6YWZ-R4",
+   "statistics": {
+    "viewCount": "2906504",
+    "likeCount": "3315",
+    "dislikeCount": "526",
+    "favoriteCount": "0",
+    "commentCount": "2782"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/1Fes0vDEkxzoQ3Va2oFhrbxbvi8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/yhC-PNLIWnIhE2UMArrx144Hcag\"",
+   "id": "ZaTmxMc4PIw",
+   "statistics": {
+    "viewCount": "16400",
+    "likeCount": "31",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "4"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Mev4fOM8d0IYtatiJtikvA4zTHk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/H9QHDNeaTurLJnNp0B6SgE_IuxY\"",
+   "id": "auYbpnEwBBg",
+   "statistics": {
+    "viewCount": "897688",
+    "likeCount": "1079",
+    "dislikeCount": "44",
+    "favoriteCount": "0",
+    "commentCount": "509"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/iGSZN5EQZgSfBowfI-guPkbyS4s\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/mintcE1APFDBUYufW9YaORPjPUY\"",
+   "id": "c1-jFLlHLPw",
+   "statistics": {
+    "viewCount": "492037",
+    "likeCount": "824",
+    "dislikeCount": "41",
+    "favoriteCount": "0",
+    "commentCount": "251"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/tGkVPHTnwud9XTuBAGF09rmPKZM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/nXPBrSujL7YAYp74FDFTRqBS03s\"",
+   "id": "TJ0eGbOS3Cg",
+   "statistics": {
+    "viewCount": "137864",
+    "likeCount": "206",
+    "dislikeCount": "6",
+    "favoriteCount": "0",
+    "commentCount": "34"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ecHjWBAhINnENws0J1cSfckkQyM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/KISV-22g0VY-qzfJ8rbYADAzoH0\"",
+   "id": "RGwI-392jfE",
+   "statistics": {
+    "viewCount": "48230",
+    "likeCount": "109",
+    "dislikeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "13"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/80tCp-zz_jSn7-MfAyYPlso42ow\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/8E8jbRNG3y7go-dxCfVXEABalTk\"",
+   "id": "Y5B3dSH21Hw",
+   "statistics": {
+    "viewCount": "58510",
+    "likeCount": "53",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "19"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/lQNeazzLdluGnWSgNuzoOP3vZpU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/a64BU8mXAkEbAWgV0fBcrYRi_u8\"",
+   "id": "pyOyBVXDJ9Q",
+   "statistics": {
+    "viewCount": "6522108",
+    "likeCount": "9752",
+    "dislikeCount": "1017",
+    "favoriteCount": "0",
+    "commentCount": "4787"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/75qj3KmJA3e_24e1MadoLLbJydQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/FTykTo_wev-rKCvYF6xtSY2Z0gs\"",
+   "id": "dJ3kwMq18-8",
+   "statistics": {
+    "viewCount": "837931",
+    "likeCount": "2072",
+    "dislikeCount": "53",
+    "favoriteCount": "0",
+    "commentCount": "633"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/p0NU0kzMVzmG_01WHYeiwK1qbT8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/J5U0zhzUjTYHQ61cnJPqYZXnXWI\"",
+   "id": "2GIsExb5jJU",
+   "statistics": {
+    "viewCount": "476560",
+    "likeCount": "1097",
+    "dislikeCount": "28",
+    "favoriteCount": "0",
+    "commentCount": "254"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dxnSYD37Fw1jpCpCNoz7JZU0Lzs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/4d04V0Q71tiB-vBaxKkohiBfqqM\"",
+   "id": "9Pl4JNnqNaE",
+   "statistics": {
+    "viewCount": "42992",
+    "likeCount": "82",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "12"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/jI1SjA7XQqLhfcJoUVPqmt7Wsx8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9NSmzsxM0tcx6ltRQKQyvrHSO3k\"",
+   "id": "-lpwscsaumI",
+   "statistics": {
+    "viewCount": "13882",
+    "likeCount": "40",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "9"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9tJargY6J0m7-bzrQ5fq910NGKs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/LU8xoekrlXtXX2jie_lbG95vis4\"",
+   "id": "R3orQKBxiEg",
+   "statistics": {
+    "viewCount": "3284738",
+    "likeCount": "6171",
+    "dislikeCount": "331",
+    "favoriteCount": "0",
+    "commentCount": "5929"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/5cV8BCijxDxBzhsVdMZ0R4NLR1I\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/rG2SuxNwW3GnfBUYN05Zop2CsJI\"",
+   "id": "nPhu9XsRl4M",
+   "statistics": {
+    "viewCount": "595085",
+    "likeCount": "825",
+    "dislikeCount": "24",
+    "favoriteCount": "0",
+    "commentCount": "297"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bdQIPKGckqCUZUxuMEWbpRNMRko\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/tVZOCAOc5FA7lnL8464-Ack_GYk\"",
+   "id": "enJYNuWBJ9g",
+   "statistics": {
+    "viewCount": "484524",
+    "likeCount": "477",
+    "dislikeCount": "21",
+    "favoriteCount": "0",
+    "commentCount": "136"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ObIloezGHsYCB6C46qAigBtd4HU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/1ntoH5ZDcBCiXS134Gl4TlDJeds\"",
+   "id": "KATEIvQx518",
+   "statistics": {
+    "viewCount": "92486",
+    "likeCount": "215",
+    "dislikeCount": "13",
+    "favoriteCount": "0",
+    "commentCount": "60"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/BaYktjDjLIs4WpU-Kto1joKzb4k\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wn1Gzz8JFAapiS-f4heS86sNo1I\"",
+   "id": "6acRHWnfZAE",
+   "statistics": {
+    "viewCount": "13705358",
+    "likeCount": "58535",
+    "dislikeCount": "1904",
+    "favoriteCount": "0",
+    "commentCount": "10198"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ijDiozYQgGqVTJ8DtRLHgeQOYtA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VsYlGHCMvvJW7M5SXBwbjgZg1Uo\"",
+   "id": "5PSNL1qE6VY",
+   "statistics": {
+    "viewCount": "2450420",
+    "likeCount": "3608",
+    "dislikeCount": "228",
+    "favoriteCount": "0",
+    "commentCount": "4057"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/3vDnFXHELE2eV2VLrDmN66FiHSM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/FiyDXfGo4hStLdUneKBgJ2c4L60\"",
+   "id": "QAEkuVgt6Aw",
+   "statistics": {
+    "viewCount": "4465734",
+    "likeCount": "11269",
+    "dislikeCount": "515",
+    "favoriteCount": "0",
+    "commentCount": "6057"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/q6XvdgkKFAIxC86zTefbMMpZ9xw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/AtIxRxyhhDP-bdXqfGOPYldqU2U\"",
+   "id": "ZZyBaFYFySk",
+   "statistics": {
+    "viewCount": "201491",
+    "likeCount": "480",
+    "dislikeCount": "13",
+    "favoriteCount": "0",
+    "commentCount": "67"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ZXAObAQ1dyJLRtwryJLIIWBNJwI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/SLhWh1WVrihcPSzMKuFKue4CZbo\"",
+   "id": "gcwv1Gflh4Q",
+   "statistics": {
+    "viewCount": "34226",
+    "likeCount": "27",
+    "dislikeCount": "13",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/t6s-OzlhE9BgnAF-7QIUgRGS4Qo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/eMOLeHs1M6155byA8oxhov4TV_4\"",
+   "id": "4Aif1qEB_JU",
+   "statistics": {
+    "viewCount": "221721",
+    "likeCount": "633",
+    "dislikeCount": "38",
+    "favoriteCount": "0",
+    "commentCount": "304"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/QArgk8ROXp6wShvI4U9xQId9e84\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wQ3_wO_7NNxmufaKLdys-13LwAc\"",
+   "id": "-B0tZg7BDRs",
+   "statistics": {
+    "viewCount": "15321",
+    "likeCount": "19",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "7"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/qChnqJaDCy_Z0L75EOvgk3ZchtU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/uT98gDUlvFi4GiO7t1ROZaDnHqI\"",
+   "id": "YOohAwZOSGo",
+   "statistics": {
+    "viewCount": "570281",
+    "likeCount": "720",
+    "dislikeCount": "33",
+    "favoriteCount": "0",
+    "commentCount": "336"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/HTDMREPlR0mrXhkgX9peojKQJ4I\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_CIbEf0LYNTz3PumJ-tXggfizWI\"",
+   "id": "taFaFEuwHLQ",
+   "statistics": {
+    "viewCount": "2029638",
+    "likeCount": "4680",
+    "dislikeCount": "124",
+    "favoriteCount": "0",
+    "commentCount": "2112"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/f_wTVGCuNlxmF3rslfQ12PfePh4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/1H5XeenjEjDl88-G3Bpc9dkiEvk\"",
+   "id": "W6iVPCRflQM",
+   "statistics": {
+    "viewCount": "20478",
+    "likeCount": "32",
+    "dislikeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "3"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/CSEasUJQh3DdjbOOSj5LG6FR5_8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/lsfwa4Ut9Xi5ftsTE-O3s2ILtNw\"",
+   "id": "aFhCLiGvb08",
+   "statistics": {
+    "viewCount": "659938",
+    "likeCount": "1270",
+    "dislikeCount": "23",
+    "favoriteCount": "0",
+    "commentCount": "619"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VpVLtsm6QKUFfTLtYGb2EioUc50\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/fjpeDXAYCEQ6s_vXYFf9csANfAg\"",
+   "id": "0sur6pwJ15E",
+   "statistics": {
+    "viewCount": "78319",
+    "likeCount": "185",
+    "dislikeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "44"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/XX9TLBSpCfx5Hl4fzWm2Sdjm8is\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/rtFoq9Bya_p3VpIOV55nIroZqcI\"",
+   "id": "lAxgztbYDbs",
+   "statistics": {
+    "viewCount": "198606",
+    "likeCount": "374",
+    "dislikeCount": "21",
+    "favoriteCount": "0",
+    "commentCount": "128"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_HBWenxB7g76jn3DHxYy8DA6ZtU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_9iFvLWSsB4d4ZnZVuwKrZDDwns\"",
+   "id": "yJdW1TevoyA",
+   "statistics": {
+    "viewCount": "408986",
+    "likeCount": "297",
+    "dislikeCount": "15",
+    "favoriteCount": "0",
+    "commentCount": "173"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/DWtyXb0M7axS_wo7JOytJJXVVRo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/YmtWoWVkU3Pq3P57cSX6Jm9NHH8\"",
+   "id": "v0wP5ZkaUGg",
+   "statistics": {
+    "viewCount": "2114701",
+    "likeCount": "7447",
+    "dislikeCount": "212",
+    "favoriteCount": "0",
+    "commentCount": "1804"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VC34XUq1NhVqY5-B0sWjJOwBlig\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wBHO9eq27sXSzIg3a_wfv_Jsj70\"",
+   "id": "ip3l3x5V94Q",
+   "statistics": {
+    "viewCount": "14707",
+    "likeCount": "18",
+    "dislikeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6MCoWTcSilCGnTzvv6UiCZtM9Zo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0dhNp7EnQqdjdlkxIFwCpDEMEtk\"",
+   "id": "YWwAOutgWBQ",
+   "statistics": {
+    "viewCount": "27958",
+    "likeCount": "77",
+    "dislikeCount": "4",
+    "favoriteCount": "0",
+    "commentCount": "6"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dGrh-z_9S6EQNloyCP1UFg4GAAs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wKLTKSTZDV1EZ3WmvufYNkfcc4M\"",
+   "id": "B_TEvUvk2xw",
+   "statistics": {
+    "viewCount": "10184",
+    "likeCount": "12",
+    "dislikeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "2"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/q4t2FC0arbM1pY3Ipdji3dMLVKI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/JtEdio2qX2TgIR4VuLNtIkBP9Ow\"",
+   "id": "r8HPIH5JCak",
+   "statistics": {
+    "viewCount": "4606424",
+    "likeCount": "24123",
+    "dislikeCount": "818",
+    "favoriteCount": "0",
+    "commentCount": "4810"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/lKoBUGjIP8p8tM702YkYrZd7CSY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/iOFIj1ZcQBOLtWWCttJjwdKAtHM\"",
+   "id": "8hP9D6kZseM",
+   "statistics": {
+    "viewCount": "1104122",
+    "likeCount": "2066",
+    "dislikeCount": "79",
+    "favoriteCount": "0",
+    "commentCount": "879"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/vqe4AskjWKYVXvhBFvPnznyPH-Y\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/OBQXRMp-CIjEYnVVxZixIXCoy1M\"",
+   "id": "dU0W5dD2mc8",
+   "statistics": {
+    "viewCount": "465548",
+    "likeCount": "477",
+    "dislikeCount": "31",
+    "favoriteCount": "0",
+    "commentCount": "90"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bZwLOT9s-2dpuE7BU1iDP5BMyUU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_sOrlcyLlwV09scy2SR5icphvls\"",
+   "id": "lnSgSe2GzDc",
+   "statistics": {
+    "viewCount": "1203730",
+    "likeCount": "1775",
+    "dislikeCount": "46",
+    "favoriteCount": "0",
+    "commentCount": "493"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/FgkmA9ElHLBVbotuniYIxf8EVts\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_m9tm81w7PF2RbLGt7aENf05w60\"",
+   "id": "eHSYth2wSEk",
+   "statistics": {
+    "viewCount": "1112847",
+    "likeCount": "1191",
+    "dislikeCount": "88",
+    "favoriteCount": "0",
+    "commentCount": "571"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Mk01SmATmd5kLiq-KJA3wNZs1-s\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/3-d0dmdjguWSud7dvTinK5cw04w\"",
+   "id": "qnyZNf0vU_8",
+   "statistics": {
+    "viewCount": "57526",
+    "likeCount": "73",
+    "dislikeCount": "11",
+    "favoriteCount": "0",
+    "commentCount": "14"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6ii9zq0GG2tmXgOQRbwBzf4hLy0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9zPDoI5hvT2gT3ZpYGwZEVeWx08\"",
+   "id": "_UiPki2uxM8",
+   "statistics": {
+    "viewCount": "68396",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "5"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ObFXzRn43vLpndyqHKqMSDt0Hjg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/LWQt0J7LYVeD-FOBb-YmIC-09NQ\"",
+   "id": "XJhNzHyq-IE",
+   "statistics": {
+    "viewCount": "275428",
+    "likeCount": "257",
+    "dislikeCount": "20",
+    "favoriteCount": "0",
+    "commentCount": "130"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/AYz26mVSzK58lEoM4FUq7rqE6b4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/AWahNG28FsEXFLtnfVGcHE4GjOU\"",
+   "id": "xbzjqjt1aOQ",
+   "statistics": {
+    "viewCount": "9435",
+    "likeCount": "13",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "3"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/CdxaSa46k3O9qognY0tDkYztDoU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dj_fF_gXNJMj2_ODtSEv-DW2-jc\"",
+   "id": "sutgWjz10sM",
+   "statistics": {
+    "viewCount": "15744159",
+    "likeCount": "62217",
+    "dislikeCount": "2155",
+    "favoriteCount": "0",
+    "commentCount": "12525"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/HEgLAdvcqrMlY6MAwnkI59_kmU0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Xoi4pE9jx0ZjmRVSWlwg1Scucz0\"",
+   "id": "-Qn9-UpT4Oo",
+   "statistics": {
+    "viewCount": "38886",
+    "likeCount": "54",
+    "dislikeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "17"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/NqLIyx9nuGKEwEUOrMmnwLv9Htw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/PXoUqr4tTqoWAacgYL6UMZmE7e4\"",
+   "id": "UFuFFdK7i44",
+   "statistics": {
+    "viewCount": "36825",
+    "likeCount": "45",
+    "dislikeCount": "4",
+    "favoriteCount": "0",
+    "commentCount": "5"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/8fLsYsxD3sQRRtEuXTjrR54zVv0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/rj7x9Z46Li-6aWDvJ2kteLHjjXU\"",
+   "id": "LCSzYioSeT0",
+   "statistics": {
+    "viewCount": "4003961",
+    "likeCount": "4441",
+    "dislikeCount": "473",
+    "favoriteCount": "0",
+    "commentCount": "3029"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-2FS4uP-Lo4iXhO6XXWBqM2jWvg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-wiTK0dz80rsCx_M23jLZ0u3PBE\"",
+   "id": "nCjsWpM9zFU",
+   "statistics": {
+    "viewCount": "32715872",
+    "likeCount": "79802",
+    "dislikeCount": "15483",
+    "favoriteCount": "0",
+    "commentCount": "29954"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/i3IWAcZLAWiicJUDHNqxqgWqaik\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/5tS858ss9dDxWUf1hHFHqcLGY0I\"",
+   "id": "eBdDcQONmkM",
+   "statistics": {
+    "viewCount": "1330718",
+    "likeCount": "1398",
+    "dislikeCount": "266",
+    "favoriteCount": "0",
+    "commentCount": "1298"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/PpSZDvGF-_x8RtDu1f_l8p42hH0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/w21_ZpMnvrQe5NoNR5lwlgkWxMk\"",
+   "id": "1QdJt9E-f2A",
+   "statistics": {
+    "viewCount": "140365",
+    "likeCount": "281",
+    "dislikeCount": "35",
+    "favoriteCount": "0",
+    "commentCount": "130"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/MJLTAqrDxIBC2CIaUe-BfCvFXRU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/gfAx2TyhJTuDgOMCLLDuKnmzkO8\"",
+   "id": "B5hRQwewcUY",
+   "statistics": {
+    "viewCount": "210833",
+    "likeCount": "248",
+    "dislikeCount": "7",
+    "favoriteCount": "0",
+    "commentCount": "81"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/mwiPUwnwu3maTWXMx6boLDpe7bk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/BulLcch3Gy735qf8hLlkQzPVBpM\"",
+   "id": "-4CgGfYkyFE",
+   "statistics": {
+    "viewCount": "8547",
+    "likeCount": "17",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/yuV7aH9hp6TQPTh4gB2k6zcXtD8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/RQvuDlUQ_DdOBS4d90v0bfMIn-Q\"",
+   "id": "FebPJlmgldE",
+   "statistics": {
+    "viewCount": "88606",
+    "likeCount": "136",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "11"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-QTYjgzHbbyIejMN7N-Ro-BThvY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-iL__eGz1z44g3bOJFwPmtgc-vI\"",
+   "id": "yBNSOdEjtZs",
+   "statistics": {
+    "viewCount": "523914",
+    "likeCount": "1111",
+    "dislikeCount": "34",
+    "favoriteCount": "0",
+    "commentCount": "437"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/HdWeovVHGvWKSJ3efa839ytuhJA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/eJJQRRYv5soD2COBQ6BFDe93rH4\"",
+   "id": "4H_Eepvg3aU",
+   "statistics": {
+    "viewCount": "490297",
+    "likeCount": "611",
+    "dislikeCount": "47",
+    "favoriteCount": "0",
+    "commentCount": "280"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wZMvrqPUdWKH7Te-_BtLi51ALgA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/R4q6tFRvlXQzxrsl0rhsISlk7K8\"",
+   "id": "fkHnumjuHL8",
+   "statistics": {
+    "viewCount": "115289",
+    "likeCount": "163",
+    "dislikeCount": "10",
+    "favoriteCount": "0",
+    "commentCount": "30"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/uaSy4yqubbRRipqOrbbU_K2T6U8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/qn5e8Jx4jr8o2hPf9Xo_wdG4Myg\"",
+   "id": "rTL1FmvVCuA",
+   "statistics": {
+    "viewCount": "158498",
+    "likeCount": "152",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "33"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/alQQOQ9-Y3qq8eCqHoE_d373T5Y\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/jOrrUjH1T9mskBI8MKZnt4Qe1K0\"",
+   "id": "pkqzFUhGPJg",
+   "statistics": {
+    "viewCount": "4112691",
+    "likeCount": "4382",
+    "dislikeCount": "303",
+    "favoriteCount": "0",
+    "commentCount": "1425"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/IZasqxA-PJxLBHic_H5x_l2JnQM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/cQjXSanvNQIS9okhDPaqdPrBpS0\"",
+   "id": "dB7a9utApIQ",
+   "statistics": {
+    "viewCount": "9774",
+    "likeCount": "13",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/04ULtAj4VmFt6gJNAszxHefiMGI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/vnBWi0_XxtfQwC40nIQ2rPgidmc\"",
+   "id": "k8HknJ3IaLk",
+   "statistics": {
+    "viewCount": "108147",
+    "likeCount": "167",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "128"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Dn6Ald9tiQe3PONCivkAE3Q2hiw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/rvruUl7P0B02K-bYMygxI-IRi50\"",
+   "id": "K4xD8ZMdJms",
+   "statistics": {
+    "viewCount": "155009",
+    "likeCount": "175",
+    "dislikeCount": "9",
+    "favoriteCount": "0",
+    "commentCount": "16"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/XnOfGmxzXORVSyWfbArvf0ukejg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/qr2UU_0K_ieDVUyU2xjHHZREEFE\"",
+   "id": "R3b19svqbls",
+   "statistics": {
+    "viewCount": "848018",
+    "likeCount": "1735",
+    "dislikeCount": "36",
+    "favoriteCount": "0",
+    "commentCount": "342"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/UwlSyzVVPS-nP4IRPVMT3_fXXnU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ChMCF5Yuix6QIfe4oZBUAva8kl4\"",
+   "id": "I0hXhGt5XPg",
+   "statistics": {
+    "viewCount": "1699425",
+    "likeCount": "2275",
+    "dislikeCount": "115",
+    "favoriteCount": "0",
+    "commentCount": "90"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/TbUUneGxWviahDFjsA2CJPxwVH4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/QHpLK2_YObt45vvR9FWQATiWa8Y\"",
+   "id": "T50_qHEOahQ",
+   "statistics": {
+    "viewCount": "199587",
+    "likeCount": "273",
+    "dislikeCount": "12",
+    "favoriteCount": "0",
+    "commentCount": "78"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ki8jmu22bv3pdqh4TU0ms_ixZek\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/teF_K1ky3tOJiHhlTI5n_7pVNWM\"",
+   "id": "wFm-6N4QbBQ",
+   "statistics": {
+    "viewCount": "159703",
+    "likeCount": "183",
+    "dislikeCount": "22",
+    "favoriteCount": "0",
+    "commentCount": "175"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/7e9n2Yq1XS1GRu1Ei5QFNWTnv6A\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/zmw2sMcX4A2CkMJwoj2OjzS45sM\"",
+   "id": "vTU5Yw6zXvg",
+   "statistics": {
+    "viewCount": "776715",
+    "likeCount": "570",
+    "dislikeCount": "444",
+    "favoriteCount": "0",
+    "commentCount": "371"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/xwjBUv2QxCvwNMzVvc4pF65lGPo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/nOljWUvd07KBuYvxBWbE7t9gICc\"",
+   "id": "82s9atP0teY",
+   "statistics": {
+    "viewCount": "41784",
+    "likeCount": "33",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "40"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/pgdZMuESIlnCYp0vf_sPdNWf1Po\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/nycjJSVvB9JY28kijbN8OEg9z9s\"",
+   "id": "HaMfV72q40U",
+   "statistics": {
+    "viewCount": "450401",
+    "likeCount": "824",
+    "dislikeCount": "27",
+    "favoriteCount": "0",
+    "commentCount": "97"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/25MaaoLHn9CSutSrOALz3Mfl_Js\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/WYU4nSFury_NYoV1lXXJgbgH07I\"",
+   "id": "WA0qVTFiXX8",
+   "statistics": {
+    "viewCount": "50857",
+    "likeCount": "69",
+    "dislikeCount": "4",
+    "favoriteCount": "0",
+    "commentCount": "45"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/61UKO5HHNfmQSgrOXR-idp8PWWo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Glri_riwyYD5YpXcwaDcyEMlwVQ\"",
+   "id": "36mnx8dBbGE",
+   "statistics": {
+    "viewCount": "152111",
+    "likeCount": "235",
+    "dislikeCount": "16",
+    "favoriteCount": "0",
+    "commentCount": "56"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/INIV1yAXhaivig-P9cBJwUQlLH4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/jzAnuP5EJtHgZsvjcsSpCnLE820\"",
+   "id": "bpra9OEw6nQ",
+   "statistics": {
+    "viewCount": "1193986",
+    "likeCount": "1093",
+    "dislikeCount": "51",
+    "favoriteCount": "0",
+    "commentCount": "1228"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0pISGv4GTotTYmF-RMfnBzN33Ac\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9l_WUYss-333LzminuPUnesPCNE\"",
+   "id": "tnV6wM-vd9s",
+   "statistics": {
+    "viewCount": "1204696",
+    "likeCount": "2369",
+    "dislikeCount": "56",
+    "favoriteCount": "0",
+    "commentCount": "1215"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/DxNErie6FGDQmIHfuZYXLCEbbSE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/gpaw8O4R4pW37BSrk9LNgBCQR3c\"",
+   "id": "7h9aEswMvSM",
+   "statistics": {
+    "viewCount": "179092",
+    "likeCount": "172",
+    "dislikeCount": "11",
+    "favoriteCount": "0",
+    "commentCount": "31"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VOIbSRoxv1upOGEPgF34x0BSQ3Y\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Pli0cht5-7zEmdtCiZ5ACIKxzrQ\"",
+   "id": "HP4NxUFgFrs",
+   "statistics": {
+    "viewCount": "2515812",
+    "likeCount": "4742",
+    "dislikeCount": "119",
+    "favoriteCount": "0",
+    "commentCount": "1819"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-l9pWGD347i_1ZJDM113uShF2EM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6BMjCthJh58M2Q7zqny9t1i_Ooc\"",
+   "id": "j69OPw9nFHw",
+   "statistics": {
+    "viewCount": "19321",
+    "likeCount": "29",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "7"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_wEKYHnxp6lRe2Eh-Hyn0yB4Gcc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/kNg3wwvuZrhi7OjJhCiOiei1rfM\"",
+   "id": "bYg2EJLJids",
+   "statistics": {
+    "viewCount": "4247345",
+    "likeCount": "6578",
+    "dislikeCount": "274",
+    "favoriteCount": "0",
+    "commentCount": "5439"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/kpNj1xBB8yWV5Cee2k2Zuum14qQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dfBnOud2iz_SG1YwXJzYpxrHpS8\"",
+   "id": "ayTnvVpj9t4",
+   "statistics": {
+    "viewCount": "896976",
+    "likeCount": "1513",
+    "dislikeCount": "61",
+    "favoriteCount": "0",
+    "commentCount": "320"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/OnoBlwbMJlrbAIkBdb9S0fpzFRY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/29DyFJaqvD99j1lrHMQ3nls38II\"",
+   "id": "LG0xYJJbko8",
+   "statistics": {
+    "viewCount": "601579",
+    "likeCount": "512",
+    "dislikeCount": "89",
+    "favoriteCount": "0",
+    "commentCount": "92"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9cpwXYFIdcdZgQhh40Bcz_AL7nM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/vxQ5uRi24o_ZgkW1c4d9ph9hOTo\"",
+   "id": "CewglxElBK0",
+   "statistics": {
+    "viewCount": "575996",
+    "likeCount": "655",
+    "dislikeCount": "27",
+    "favoriteCount": "0",
+    "commentCount": "234"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/GNc2qv_IVX_-m2f596RC9LDG-QI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/h1hTXdCEwr7QHUSzJA4yzkezCz8\"",
+   "id": "wYK4jrhepdU",
+   "statistics": {
+    "viewCount": "47258",
+    "likeCount": "99",
+    "dislikeCount": "6",
+    "favoriteCount": "0",
+    "commentCount": "15"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_8v_d0H4i0PbiMsDqMgBrpC9J8M\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/gc0koV6cZDiMmsp6LqLB8ALioNo\"",
+   "id": "w8JNjmK5lfk",
+   "statistics": {
+    "viewCount": "118367",
+    "likeCount": "79",
+    "dislikeCount": "7",
+    "favoriteCount": "0",
+    "commentCount": "12"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/h3Q-cevpSaVyqqWjVFO9HFTglIY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ri6t5vu68PQz97n-_g-3BpUUdEk\"",
+   "id": "c5Q3PdT6GFQ",
+   "statistics": {
+    "viewCount": "821216",
+    "likeCount": "1056",
+    "dislikeCount": "49",
+    "favoriteCount": "0",
+    "commentCount": "1063"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/31NDR8H_IZa89gMYW392rogCF_0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Y6x6_YE1syt57DRfpOPHV7ujsD4\"",
+   "id": "moNH4N44D28",
+   "statistics": {
+    "viewCount": "28010",
+    "likeCount": "35",
+    "dislikeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "6"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Xy9t2E-fu8BnyqW67CHxLCsaEO8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/hXB4e3rY2KadmbpXpTNdSPzGCKg\"",
+   "id": "cDuapYNd6OE",
+   "statistics": {
+    "viewCount": "649806",
+    "likeCount": "1283",
+    "dislikeCount": "29",
+    "favoriteCount": "0",
+    "commentCount": "11"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/KQv8vqhAFCSk9pkyaormqR-Tfr8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/SIL93WsufAwpNeF8MM1S7z1fVzw\"",
+   "id": "8GC4P7TMmvw",
+   "statistics": {
+    "viewCount": "28903",
+    "likeCount": "46",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ACZZgrcXt76ZmBlcFPp9A1ktcnw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/v9EsoN2sp5jSNuRO131cKw2hwBM\"",
+   "id": "G59cD1NSbS8",
+   "statistics": {
+    "viewCount": "163533",
+    "likeCount": "324",
+    "dislikeCount": "15",
+    "favoriteCount": "0",
+    "commentCount": "80"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6dBswilW5vU0xVKk3GbCB7yZBW0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/AHOMrSNHHjApAKm0mIj0xHP5huQ\"",
+   "id": "kGijXKclgRw",
+   "statistics": {
+    "viewCount": "53953",
+    "likeCount": "57",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "28"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/qNQrJ_hd4w11U3hIx_MRxDE3Inw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/N_7d4eAUWGg3mwvhI8EiYDVQZGQ\"",
+   "id": "gqX7H1-n10s",
+   "statistics": {
+    "viewCount": "53968",
+    "likeCount": "62",
+    "dislikeCount": "6",
+    "favoriteCount": "0",
+    "commentCount": "37"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/RaORnlNhJbiCxb2dZJ79xXWlXF4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/yauLyFbXtpUzTZ8cXjW51GnLiVo\"",
+   "id": "fiv8Gy5CJ0Y",
+   "statistics": {
+    "viewCount": "25903",
+    "likeCount": "50",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "4"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/5GFdHiBIJAkBC0cWnMLLvDfSv5w\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ScmUR2GUmoM-kEKM6-cBWwMLkcM\"",
+   "id": "-apwoGTpi7E",
+   "statistics": {
+    "viewCount": "305358",
+    "likeCount": "452",
+    "dislikeCount": "24",
+    "favoriteCount": "0",
+    "commentCount": "145"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/rAvZ6TS8Am-JNYhNxX0BcnD7Cro\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ZPZ4i12BETBUNk2bTOaRJ-ZMV3c\"",
+   "id": "ZeUSo8voIXM",
+   "statistics": {
+    "viewCount": "419314",
+    "likeCount": "341",
+    "dislikeCount": "25",
+    "favoriteCount": "0",
+    "commentCount": "55"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/8MatqPGAHC8-2300v01696ftVHw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/mYzRqkRhI_y3at7kNESV1fLOuhw\"",
+   "id": "tVlqVHKn2dg",
+   "statistics": {
+    "viewCount": "1094983",
+    "likeCount": "1030",
+    "dislikeCount": "41",
+    "favoriteCount": "0",
+    "commentCount": "275"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/NZAXWSA3JZl9KFjNDTbKGEEOC58\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Zz9bSbRiOHnGjX8rN9qP-GyeqYw\"",
+   "id": "O6wP_LKA0DE",
+   "statistics": {
+    "viewCount": "182957",
+    "likeCount": "502",
+    "dislikeCount": "9",
+    "favoriteCount": "0",
+    "commentCount": "121"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/fWY4VxQphOM0Ooo0_mT8cHhHKMA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/isMwQrsMF3f4369FC3w5y8ChJ1s\"",
+   "id": "LmP3YFk_YHA",
+   "statistics": {
+    "viewCount": "448626",
+    "likeCount": "620",
+    "dislikeCount": "52",
+    "favoriteCount": "0",
+    "commentCount": "434"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/EaoM57k9Ik_2jO18B0CvniJ32q4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wtUKlX4JMgTfT9x8FCG2tVdFn5k\"",
+   "id": "edpEspHOeVU",
+   "statistics": {
+    "viewCount": "76883",
+    "likeCount": "82",
+    "dislikeCount": "9",
+    "favoriteCount": "0",
+    "commentCount": "3"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/jU6U1LqQQYpedkmnyB8j8gt6KeI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/e4WRLsFOfd5nFsOtSVzlKSSQIms\"",
+   "id": "wtcZEPEblUQ",
+   "statistics": {
+    "viewCount": "428288",
+    "likeCount": "438",
+    "dislikeCount": "21",
+    "favoriteCount": "0",
+    "commentCount": "231"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/c2x2xeSAPh0ZJP8PsCPYljx2-RU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/7MmwirOLLgpgYzDkSEH5QvYo2E4\"",
+   "id": "hFQGyUSLaMs",
+   "statistics": {
+    "viewCount": "123805",
+    "likeCount": "263",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "154"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ptMzlyUnzmU1uVPt3GRrj2ylJTg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/xu76k4uT30wGw0sre4o5fao4yhQ\"",
+   "id": "2GxSDZc8etg",
+   "statistics": {
+    "viewCount": "4576734",
+    "likeCount": "7612",
+    "dislikeCount": "587",
+    "favoriteCount": "0",
+    "commentCount": "7480"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/oDoZPDvry_LLzTy3Pb0Tn6sx77w\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/H8IGwbfWIjEd8NBDjPflyjWLKzY\"",
+   "id": "KgjFYmuXbro",
+   "statistics": {
+    "viewCount": "8942",
+    "likeCount": "10",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "3"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/S7Ayp_PrYhfnAXd2U5WQGMKxEnE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/qcbQF93tTUaY4fOisoZMgB__Yi4\"",
+   "id": "cv01Mcdf8rI",
+   "statistics": {
+    "viewCount": "507106",
+    "likeCount": "626",
+    "dislikeCount": "30",
+    "favoriteCount": "0",
+    "commentCount": "59"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/W7XmvRSg2tVX-aqKMhMyvlJPp3A\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/H5hHNnnqsPwXGQ9-LYucWMMY9-c\"",
+   "id": "UShtvCen6So",
+   "statistics": {
+    "viewCount": "1306527",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "586"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Y3yS3HFiWCN-1IbrYnLnUaWSmgY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/30mmahqREfYMJV9fyU8gal1uh2s\"",
+   "id": "e_4NvY3v51Q",
+   "statistics": {
+    "viewCount": "73432",
+    "likeCount": "109",
+    "dislikeCount": "8",
+    "favoriteCount": "0",
+    "commentCount": "4"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/TuJTpL7AIxIGfIEYBEB9J_c1u0Q\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/I-Q63UkNUtW8hmzaWdCKPEyreNM\"",
+   "id": "FsFFwaRxoDw",
+   "statistics": {
+    "viewCount": "8985",
+    "likeCount": "14",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "4"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0Q3aYcGzk44Gquf4FCNigwcgkNo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/RBJOB9jjEab_HH2jZ3Mo6lBh1xE\"",
+   "id": "SbXIj2T-_uk",
+   "statistics": {
+    "viewCount": "7180",
+    "likeCount": "6",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/uv-6m4EY5ufm6S0Of4UKYeg4pYI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/OuzA6NqJQ7fWXNclZ2KqtNdMSpg\"",
+   "id": "D5FF7js6H34",
+   "statistics": {
+    "viewCount": "591061",
+    "likeCount": "634",
+    "dislikeCount": "106",
+    "favoriteCount": "0",
+    "commentCount": "367"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/iuHzYU908uUfUWpWScTjppe9EWs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_ExbymKf334h2mTECcQapzobwsg\"",
+   "id": "M1h_1yoVqVU",
+   "statistics": {
+    "viewCount": "1097464",
+    "likeCount": "6093",
+    "dislikeCount": "161",
+    "favoriteCount": "0",
+    "commentCount": "760"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9iTL93Kg1eEwG76kF1F7x4ADX6g\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/CspTwXcldIHilHAE3qbaG7dG5bc\"",
+   "id": "GFx88B1BtME",
+   "statistics": {
+    "viewCount": "116756",
+    "likeCount": "161",
+    "dislikeCount": "9",
+    "favoriteCount": "0",
+    "commentCount": "59"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/j_14zx_jk3VvZvv6QTDLrre_Gd0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/m-MFP10fMMPN5fGpms_CRCIX0ks\"",
+   "id": "yknIZsvQjG4",
+   "statistics": {
+    "viewCount": "223683",
+    "likeCount": "307",
+    "dislikeCount": "20",
+    "favoriteCount": "0",
+    "commentCount": "79"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/gJsZ3MnsCNX27Km1FLYXAor7y44\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/OWVhMi39wkLnJy2dTFJhORxSOwA\"",
+   "id": "V3uZDsnwdYg",
+   "statistics": {
+    "viewCount": "103654",
+    "likeCount": "264",
+    "dislikeCount": "11",
+    "favoriteCount": "0",
+    "commentCount": "99"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/S38dqU8wqt-HZ9f0tiZ0YEnRvKs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/uhSHnU2CLpBjQxKWBsEb7JqKkUI\"",
+   "id": "OCZp5v8V-94",
+   "statistics": {
+    "viewCount": "339477",
+    "likeCount": "564",
+    "dislikeCount": "146",
+    "favoriteCount": "0",
+    "commentCount": "160"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/tiC_1_jZ4m2QLc9aGy-qIx4dqBc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VRu_nLc0apSDc_JEgeI90-T7IN0\"",
+   "id": "Ee92mDZu_PI",
+   "statistics": {
+    "viewCount": "149462",
+    "likeCount": "189",
+    "dislikeCount": "8",
+    "favoriteCount": "0",
+    "commentCount": "46"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_i9w68timJVE5nt_bUuIEMFH8Nw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/3wU2QYXfYyusTAiHeoLQv5mEG1E\"",
+   "id": "IH7gQqpw7ok",
+   "statistics": {
+    "viewCount": "19313",
+    "likeCount": "23",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "3"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/XADTOvTPtGOmHtMBLe_FZodebLU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/IOrxkYDCCc-Kwh0CqgnXB-O5xUE\"",
+   "id": "q8lGHQn_n9Y",
+   "statistics": {
+    "viewCount": "1692521",
+    "likeCount": "2118",
+    "dislikeCount": "104",
+    "favoriteCount": "0",
+    "commentCount": "635"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dAQ228sMX-POCGTZo26DLyGy400\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/JuxU1BMlj2szYWAxV0jCH39rSD4\"",
+   "id": "AYaTCPbYGdk",
+   "statistics": {
+    "viewCount": "264992",
+    "likeCount": "333",
+    "dislikeCount": "45",
+    "favoriteCount": "0",
+    "commentCount": "97"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0BbbGyqvnTiq0t-aemIOf_IVTMA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9qFrSeTeHFd8qNnpizVfiQKl_ys\"",
+   "id": "ozk0-RHXtFw",
+   "statistics": {
+    "viewCount": "315477",
+    "likeCount": "527",
+    "dislikeCount": "16",
+    "favoriteCount": "0",
+    "commentCount": "137"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/u5JsQRW8vL33YWH0CHxE3llobEM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/22FWysaP-EP_ZGC35yHYWUknk-Y\"",
+   "id": "xAjWCyJ0krI",
+   "statistics": {
+    "viewCount": "109553",
+    "likeCount": "256",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "169"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/WTHyf0Gm87I4iYbcECCNNw6g0Jg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/PyRCLfjyu5t1WBcRi50Rg6HFIG4\"",
+   "id": "VfXpFgyAY_U",
+   "statistics": {
+    "viewCount": "10649",
+    "likeCount": "9",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "4"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/gHCJHS099q5VMOgFBoKi2uUE3-s\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/cLJUMRJ44egN1rWTTlg6Le14v3k\"",
+   "id": "MQoxQrMi-3A",
+   "statistics": {
+    "viewCount": "348416",
+    "likeCount": "417",
+    "dislikeCount": "6",
+    "favoriteCount": "0",
+    "commentCount": "63"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/lwLvmoalm9VBSS6M2hzL9SwSCWw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/e0Ic7rlFhnH3WS_F7ZB8UOCuTgQ\"",
+   "id": "hvn8RCxGauQ",
+   "statistics": {
+    "viewCount": "372307",
+    "likeCount": "520",
+    "dislikeCount": "23",
+    "favoriteCount": "0",
+    "commentCount": "90"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/QEWxGNZiwae-WHfZdorW4jtJjoE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9r-Wa9_-t04KuKEscfEt-2Rzjxs\"",
+   "id": "jpCPvHJ6p90",
+   "statistics": {
+    "viewCount": "5238967",
+    "likeCount": "10398",
+    "dislikeCount": "373",
+    "favoriteCount": "0",
+    "commentCount": "9052"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/8n6Zyi1egY9EzBERedg9sh8dkes\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/U5Cy4ThImnSuuog_S9ke4JPxfLs\"",
+   "id": "5afGGGsxvEA",
+   "statistics": {
+    "viewCount": "2914",
+    "likeCount": "4",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/TjQ_ghr5GLutcSQVkMDDgAUWW9g\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/f4xelrLwH7trXtkS7JhWYQWD7IA\"",
+   "id": "dF-Iy7vIOJA",
+   "statistics": {
+    "viewCount": "40261",
+    "likeCount": "32",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "22"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/uEZnaNSAYnv10XrUYszt1LFhkNA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/3o465WfLW95TZ1wGTER7wKbDPM4\"",
+   "id": "BpkiPkZdunM",
+   "statistics": {
+    "viewCount": "71415",
+    "likeCount": "84",
+    "dislikeCount": "8",
+    "favoriteCount": "0",
+    "commentCount": "10"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/QGJDJJ-SpMF7PVyhbduS_tME5TU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/8oOpdDvTOXl3nmRlmZshP_zxT_8\"",
+   "id": "5cKtSg8vPiM",
+   "statistics": {
+    "viewCount": "109734",
+    "likeCount": "160",
+    "dislikeCount": "11",
+    "favoriteCount": "0",
+    "commentCount": "18"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/nzBj09xaH0CCc0xXxu6X5c51gD0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/zqIXQnNVY0pAAmYHliX1eYHbjD0\"",
+   "id": "z-lmF5DAssU",
+   "statistics": {
+    "viewCount": "105865",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "64"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bwIt6dxGSOjBmy6i587jGBplUk8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/CvBsEm5dDu0NpRD4zdL8RDDy8zA\"",
+   "id": "mwbLivFNZok",
+   "statistics": {
+    "viewCount": "84791",
+    "likeCount": "87",
+    "dislikeCount": "9",
+    "favoriteCount": "0",
+    "commentCount": "24"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/V_yXxBk2bHn9Si11vOqPcphBp5g\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/TKt33sOm-P7_U_1NinNL0QOO13Q\"",
+   "id": "vzUb1fOVjYU",
+   "statistics": {
+    "viewCount": "25387",
+    "likeCount": "37",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "8"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/rAu3v5ei6a4vcJ86R0EMR54yWkE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/uEbee4dMaAS__VsuSHKSXyPJBGw\"",
+   "id": "ThhDTBbMc0M",
+   "statistics": {
+    "viewCount": "4592",
+    "likeCount": "11",
+    "dislikeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "7"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dNFS57QfAEc6c9zJ4WR7qwOuZZA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/eA8B7AdbStFLL_aPSKv8MgxsWlY\"",
+   "id": "R_f1uCWKZQs",
+   "statistics": {
+    "viewCount": "1288939",
+    "likeCount": "1353",
+    "dislikeCount": "55",
+    "favoriteCount": "0",
+    "commentCount": "814"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/T3X_H-J_gXG3d94Pw61ddB6jtDs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/n22dKnJyNSMLx0cdiS0SZkn8h3M\"",
+   "id": "_xcZTtlGweQ",
+   "statistics": {
+    "viewCount": "2626314",
+    "likeCount": "5735",
+    "dislikeCount": "110",
+    "favoriteCount": "0",
+    "commentCount": "2395"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/b24I57fI4UAxIrxd1WhWnFBi8r0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/qyZNcm7voaSsWGdBmfz29rh7WNE\"",
+   "id": "61-GFxjTyV0",
+   "statistics": {
+    "viewCount": "2958404",
+    "likeCount": "4340",
+    "dislikeCount": "206",
+    "favoriteCount": "0",
+    "commentCount": "5029"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Z0MGSbXY2Hyqg9LBeFD4ijhtVZI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/YfulyBlO5kpCpD1_SeRa4RxrIag\"",
+   "id": "nyWnB18rxKw",
+   "statistics": {
+    "viewCount": "159936",
+    "likeCount": "61",
+    "dislikeCount": "21",
+    "favoriteCount": "0",
+    "commentCount": "6"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/OfqNkvwdPR0Bl-pddW1SowuPpVw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/fJ_BWM1t9xKqUqVHtR6ZNsbUFig\"",
+   "id": "jYejzdBwvY4",
+   "statistics": {
+    "viewCount": "559746",
+    "likeCount": "190",
+    "dislikeCount": "69",
+    "favoriteCount": "0",
+    "commentCount": "40"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/z4ty_qt9p-zW2Kmtbojk2rFQOp8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6_pS9tSPuj4IAKaThr61yMq74Oo\"",
+   "id": "6rQRSxLU_Sc",
+   "statistics": {
+    "viewCount": "251966",
+    "likeCount": "84",
+    "dislikeCount": "20",
+    "favoriteCount": "0",
+    "commentCount": "75"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/rDvs8m6jsKwrU6yP04ntm3En6io\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Qda_SRt0bJsdPR_on9YL8v-yr5c\"",
+   "id": "0emmBTQzG_s",
+   "statistics": {
+    "viewCount": "22773",
+    "likeCount": "37",
+    "dislikeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "6"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-yeGnCyD3opd4k-ubAe3NbUmVIw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/etREl0XRTqPaneyFyc9ltly05yE\"",
+   "id": "7kpK1fKzoDs",
+   "statistics": {
+    "viewCount": "1051498",
+    "likeCount": "1843",
+    "dislikeCount": "57",
+    "favoriteCount": "0",
+    "commentCount": "722"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wvkVNqXrdYnZLMoY832XiXK6Ves\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/AMIyvam5cTQ-qCds_JYFxyOmojk\"",
+   "id": "eLdiWe_HJv4",
+   "statistics": {
+    "viewCount": "39589",
+    "likeCount": "72",
+    "dislikeCount": "6",
+    "favoriteCount": "0",
+    "commentCount": "33"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ADjk8mSjhkGh6Q6B9OcM9MjyV6c\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VyEa_TzxAOk-Xr9QujodG3EGxa0\"",
+   "id": "_dktIVAfjzY",
+   "statistics": {
+    "viewCount": "212415",
+    "likeCount": "357",
+    "dislikeCount": "16",
+    "favoriteCount": "0",
+    "commentCount": "44"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/3DW_yLUnAxPhcR4klEiPVHMl5Ag\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/S2TwSwmeEHhcH9GwzPpTyw_ri2Y\"",
+   "id": "FE7ohvNTM7M",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "119",
+    "dislikeCount": "59",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wjh3NinbPHMiOjsE5IelDTU_7Hs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/peHRx_jiBSrGRzEkf2xQFK9GEDc\"",
+   "id": "b5eMJkuJHwo",
+   "statistics": {
+    "viewCount": "25555",
+    "likeCount": "34",
+    "dislikeCount": "6",
+    "favoriteCount": "0",
+    "commentCount": "19"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/qPZNMpA9MjqEAZGrN5zGcmgmJ-Q\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/X9aLVK4G_CAWUYqXbNrriRuYfBI\"",
+   "id": "zH6U5y086hw",
+   "statistics": {
+    "viewCount": "637910",
+    "likeCount": "1045",
+    "dislikeCount": "41",
+    "favoriteCount": "0",
+    "commentCount": "369"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/XiFMr-lLdGcU8n1MeTnNRmntn-w\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/suO-XESvV44uvSlpEno1xICKl6s\"",
+   "id": "NEvLRtDKT0c",
+   "statistics": {
+    "viewCount": "340724",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/v15IFJKi-Nt480GlcS0EBzgP2L4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/EokFoCQmA2s61VJde2iBjxmPe0c\"",
+   "id": "X5ZNG3Oveh4",
+   "statistics": {
+    "viewCount": "196059",
+    "likeCount": "270",
+    "dislikeCount": "15",
+    "favoriteCount": "0",
+    "commentCount": "53"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0nz10o5ofjbirTU2UaM9_px7uFA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VPEzeYlfRhxVHF2x1jpKystCodY\"",
+   "id": "ficqfF525vk",
+   "statistics": {
+    "viewCount": "54043",
+    "likeCount": "41",
+    "dislikeCount": "13",
+    "favoriteCount": "0",
+    "commentCount": "7"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/yWFC8UFgy8yJGb-nqhzfPiI0uJk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/hn2ygX9UgxdPZ9FTW7IzOzieIjc\"",
+   "id": "LfXQpg5m0iI",
+   "statistics": {
+    "viewCount": "64509",
+    "likeCount": "76",
+    "dislikeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "6"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Kr913Y6Kck6ocK63k5OI1MXYWNA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/DIqvz2pg1r2HL17ccPKcHQkM44Y\"",
+   "id": "YU4QBR-V79I",
+   "statistics": {
+    "viewCount": "76489",
+    "likeCount": "145",
+    "dislikeCount": "6",
+    "favoriteCount": "0",
+    "commentCount": "11"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0n-HjOnnCmkwPASDcztpThPtsQw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/zTa85iQvnoEgcyf6oX3YkxgyyzM\"",
+   "id": "DvsZtGxsvV0",
+   "statistics": {
+    "viewCount": "1607853",
+    "likeCount": "1740",
+    "dislikeCount": "81",
+    "favoriteCount": "0",
+    "commentCount": "369"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/hqkjjDf_i2SodUs0NngXlkeFZ10\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/4N9DkVCk0CNtXsKbuCD2sIDXqwk\"",
+   "id": "JwiU94p9XPA",
+   "statistics": {
+    "viewCount": "4117",
+    "likeCount": "10",
+    "dislikeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/LGW-iUJQBfQLJq1rTs9jvNDlnIQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/1B2McCFLrSdnDRzYVNigR7V1LRs\"",
+   "id": "zMba3fckhuQ",
+   "statistics": {
+    "viewCount": "751807",
+    "likeCount": "1001",
+    "dislikeCount": "72",
+    "favoriteCount": "0",
+    "commentCount": "633"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/H_9wSM7molQki5ae1rK4t3xSsu8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/afenv0TfohzwNd66pXQi9YMSKSk\"",
+   "id": "bL2wDI-O5YQ",
+   "statistics": {
+    "viewCount": "3098517",
+    "likeCount": "2353",
+    "dislikeCount": "118",
+    "favoriteCount": "0",
+    "commentCount": "1085"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/qUiKgjmuWzPxMfw9lbN4kUVIHcg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/DZhNoQp64ckPJOWL21aWLf1gbdM\"",
+   "id": "GhsnMiA6c40",
+   "statistics": {
+    "viewCount": "5500",
+    "likeCount": "6",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "2"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/8VxnqFFQdNI0Pod2GTPtO8q-0RA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/mGgJb-QSTgucphKamDp1Ch5HkZM\"",
+   "id": "J34YtrkL7ic",
+   "statistics": {
+    "viewCount": "31293",
+    "likeCount": "22",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "3"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bKqQLZrWfV4j6pLBwHHmhJu2vaA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/a5M2eYncDi32ZeTSFD6lvAmn-x8\"",
+   "id": "vWQSMrtPiYs",
+   "statistics": {
+    "viewCount": "11035",
+    "likeCount": "23",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "6"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_PzFK9OZkTFtbe61UlycySDePGI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/kxQ5n0Ym4QN1QMqrzNadStLYdJY\"",
+   "id": "wO0810JIF4Q",
+   "statistics": {
+    "viewCount": "1656503",
+    "likeCount": "2702",
+    "dislikeCount": "85",
+    "favoriteCount": "0",
+    "commentCount": "1190"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ufoY0vZ96drmRaTVnwjJTU3k_Gw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/MujZW0jQedwBr1nrxJ8HhZltFUM\"",
+   "id": "SP-lHUtNeHg",
+   "statistics": {
+    "viewCount": "173277",
+    "likeCount": "239",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "86"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/F8nG9peiv2oKThLSabjeuQdUtRw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/M9h-fgwXIicBBRR7XJfeX4FC-WM\"",
+   "id": "WCSnk0xnKzM",
+   "statistics": {
+    "viewCount": "940992",
+    "likeCount": "871",
+    "dislikeCount": "669",
+    "favoriteCount": "0",
+    "commentCount": "432"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6R3MRDgpdZjrhF7_9yUHTdWqlEE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/CUfKu1vpGmSFlgkN2OU6QUUcoio\"",
+   "id": "vAhPH8Qa_os",
+   "statistics": {
+    "viewCount": "14126",
+    "likeCount": "13",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/pPxoA_PsVMLT3SJPHaYXnFheq_w\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/hc-Z-2npdAUgjNO3V6r0ctknCpU\"",
+   "id": "RHedNLPXtLg",
+   "statistics": {
+    "viewCount": "8458",
+    "likeCount": "9",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "2"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/CayhLEOyjgKE8UyJrL1KiW7asYQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/BPOJ0An793Sdye9M3Cofj6ZEvRA\"",
+   "id": "CDzGgaugb2s",
+   "statistics": {
+    "viewCount": "1104901",
+    "likeCount": "526",
+    "dislikeCount": "84",
+    "favoriteCount": "0",
+    "commentCount": "197"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/1FH5kl5jtEOMN9nqfLtZbVcyqbI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/nodWQqEixDz3Jo87MZuwtqPGh_U\"",
+   "id": "X5-aOpznm44",
+   "statistics": {
+    "viewCount": "2727311",
+    "likeCount": "4414",
+    "dislikeCount": "479",
+    "favoriteCount": "0",
+    "commentCount": "1380"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/cH8JCz2mJ2zaWzjJKGZG0KBw2cY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/E6LgySdkapGtD86CQNMYs6Oftis\"",
+   "id": "1KBPru-Pu5Q",
+   "statistics": {
+    "viewCount": "3055042",
+    "likeCount": "4658",
+    "dislikeCount": "368",
+    "favoriteCount": "0",
+    "commentCount": "3826"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/BYFzo-GDIJ8K4biQrLys8__Kfuo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ls6VwQnJc8p8CgxCnIy6VJDjOdY\"",
+   "id": "F6YVLl7-DNI",
+   "statistics": {
+    "viewCount": "18105",
+    "likeCount": "32",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "7"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/t4D-3xb6yeTUera010PNfYqR-7o\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/63D9vwFVBrY8jMabfKImvj2HJ0Y\"",
+   "id": "1ejuhWeqaZA",
+   "statistics": {
+    "viewCount": "103334",
+    "likeCount": "89",
+    "dislikeCount": "6",
+    "favoriteCount": "0",
+    "commentCount": "10"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0A_jmVR_ghJLIS7hzM2nm5xSDEI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dqQuj2nSQd2pS5R0uK7XJDH5TFs\"",
+   "id": "COSHyRpfU0s",
+   "statistics": {
+    "viewCount": "177393",
+    "likeCount": "264",
+    "dislikeCount": "10",
+    "favoriteCount": "0",
+    "commentCount": "33"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ei3mDgSsS7mvhe89E-Xeey2NFtE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/8E9Ub4zYXwhVy43s3SXm4PMcMKI\"",
+   "id": "CZShn0PZiYU",
+   "statistics": {
+    "viewCount": "206139",
+    "likeCount": "96",
+    "dislikeCount": "13",
+    "favoriteCount": "0",
+    "commentCount": "33"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ip7pzmAsc2BQCwlsGVsWUhUqt0k\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/v3N8sz_61x3CPLNhATbvaH12yK4\"",
+   "id": "3WRxsmqercg",
+   "statistics": {
+    "viewCount": "518809",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dazZlriW_CnxaPeOVTzG7XcBYAM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/MH2HrUg5ggnIxKZeUHeOKD2w-qk\"",
+   "id": "-eCD5Nuoyi4",
+   "statistics": {
+    "viewCount": "883097",
+    "likeCount": "896",
+    "dislikeCount": "72",
+    "favoriteCount": "0",
+    "commentCount": "582"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/LTT1Ml0lsER1PPOJZNeLqrSrOXk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/PK9SyhTaARlxdaZr8edvPk_Wsqc\"",
+   "id": "2CkcwPi20ms",
+   "statistics": {
+    "viewCount": "337037",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/njxBIKJIBgFOzuzAC4exMxfqUbA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/JUyLuGPmcDOM5hu_bms53Mkcwy0\"",
+   "id": "E8I-Qzmbqnc",
+   "statistics": {
+    "viewCount": "36676",
+    "likeCount": "51",
+    "dislikeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "4"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/T8IzMbOvQ1yeqTWdf7xRcrO9uOM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-sp7E1vSoP8HRqEbq_w175T7bPs\"",
+   "id": "ZRzZX2aN3I0",
+   "statistics": {
+    "viewCount": "2314280",
+    "likeCount": "2040",
+    "dislikeCount": "119",
+    "favoriteCount": "0",
+    "commentCount": "1410"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/U6AnX4gfH8bQZfLgL1rC5Gp7VPE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dyOxiszlMukOVJt3BK-9RKLDgRs\"",
+   "id": "JWLEz-1VzSk",
+   "statistics": {
+    "viewCount": "1590922",
+    "likeCount": "1623",
+    "dislikeCount": "136",
+    "favoriteCount": "0",
+    "commentCount": "804"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/CDmj5bFfnnXtaBPZ8qSlTedQcuQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0qFajPSRzTicKloYy0ehsUG1iBI\"",
+   "id": "niD-jahFURU",
+   "statistics": {
+    "viewCount": "291402",
+    "likeCount": "238",
+    "dislikeCount": "33",
+    "favoriteCount": "0",
+    "commentCount": "42"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6xEj6-uTkvjnM5AcIWVw6Tb9x9k\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/B0oorpNWmJJFffVD1pX8oNatXqk\"",
+   "id": "AvQaTV_lBuk",
+   "statistics": {
+    "viewCount": "162781",
+    "likeCount": "150",
+    "dislikeCount": "9",
+    "favoriteCount": "0",
+    "commentCount": "41"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/veK-viEmj66d3jDOjB1LT-yS53A\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/YQu0NPUClBTowt8erZgXietsU5E\"",
+   "id": "b_bzUIbE5jo",
+   "statistics": {
+    "viewCount": "39223",
+    "likeCount": "24",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "5"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Spb8Wfyb0_8GrKVzrEl9rC8hAhI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9w8N5QvfytOJLZbi49CxEapZi-I\"",
+   "id": "MaEeSJZYkpY",
+   "statistics": {
+    "viewCount": "37214",
+    "likeCount": "55",
+    "dislikeCount": "9",
+    "favoriteCount": "0",
+    "commentCount": "7"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Jfr3-LeqERwsvQ6544R0ajzBrXE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/nRpzVNXtIsQumhEIs9ucHqZhD3I\"",
+   "id": "g4PyMY--RnU",
+   "statistics": {
+    "viewCount": "71475",
+    "likeCount": "162",
+    "dislikeCount": "7",
+    "favoriteCount": "0",
+    "commentCount": "22"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/4XIQyZI8581vZT1xZP_xozzz78A\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/EfIOwffxIngHACnL099gRwW4ttc\"",
+   "id": "afT1fAwSr-Q",
+   "statistics": {
+    "viewCount": "2771834",
+    "likeCount": "3823",
+    "dislikeCount": "250",
+    "favoriteCount": "0",
+    "commentCount": "2604"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/2aMgqD2wZY5fVOxTn01lQYB2n-k\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/N02hsihscDNvSwdso7T-_pmbRyA\"",
+   "id": "kbCfuFJ30t4",
+   "statistics": {
+    "viewCount": "684646",
+    "likeCount": "683",
+    "dislikeCount": "56",
+    "favoriteCount": "0",
+    "commentCount": "478"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/MXGqmz_USh_MSAYdRvH_aE0Srlk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/E42s2uPuqRnsRtMx8jF2wzNUwRo\"",
+   "id": "NyfbsUpRQ8o",
+   "statistics": {
+    "viewCount": "371706",
+    "likeCount": "417",
+    "dislikeCount": "14",
+    "favoriteCount": "0",
+    "commentCount": "151"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/fGeOwsVAGKp1ElT05vqBND8xLSY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/cuywmXnp_lxMD6DxxZhwze9xKVU\"",
+   "id": "glTzGSY3PjI",
+   "statistics": {
+    "viewCount": "313309",
+    "likeCount": "506",
+    "dislikeCount": "10",
+    "favoriteCount": "0",
+    "commentCount": "42"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/cZFv26i0tMOD8MK9frZVUnWUEmg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Q8ki8dbVgBqvycLDyo03wMsHewQ\"",
+   "id": "WdRvXVNgOss",
+   "statistics": {
+    "viewCount": "8105045",
+    "likeCount": "8002",
+    "dislikeCount": "451",
+    "favoriteCount": "0",
+    "commentCount": "1845"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/kkgD17I1aAAV4Vh8e7WEsT1K1D4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/DHAE9wyRQveO6m5_dUUK0J__GCM\"",
+   "id": "rA10RDU9quU",
+   "statistics": {
+    "viewCount": "743455",
+    "likeCount": "1409",
+    "dislikeCount": "58",
+    "favoriteCount": "0",
+    "commentCount": "780"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/EbndSLodIMF_WhvEH9Vm6WN2488\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/BNVGAuJrCNZRpV1vzlwrGjRz_lE\"",
+   "id": "TbQm5doF_Uc",
+   "statistics": {
+    "viewCount": "19363032",
+    "likeCount": "39771",
+    "dislikeCount": "4386",
+    "favoriteCount": "0",
+    "commentCount": "6509"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/yNWAb70cHzygIXT3cyU2evohmZ4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/trh8qSknm40fHQBlt0xI__WmFq4\"",
+   "id": "NoSWbyvdhHw",
+   "statistics": {
+    "viewCount": "816505",
+    "likeCount": "1636",
+    "dislikeCount": "114",
+    "favoriteCount": "0",
+    "commentCount": "358"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bKfjKE8JVsfT6_99B06QeYlNM2c\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/fLCO684V8trM2XZHTavUjhTB2zo\"",
+   "id": "iszwuX1AK6A",
+   "statistics": {
+    "viewCount": "14024351",
+    "likeCount": "39605",
+    "dislikeCount": "2055",
+    "favoriteCount": "0",
+    "commentCount": "12554"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/X7qrNSR-qOyW78NPeXENYbPENjI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/fbu9ZWmHKEOicoMTJV92furWYPI\"",
+   "id": "ST7a1aK_lG0",
+   "statistics": {
+    "viewCount": "5715549",
+    "likeCount": "7076",
+    "dislikeCount": "595",
+    "favoriteCount": "0",
+    "commentCount": "2388"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ly3CufNY9d2YCwwwCuEKD8BZuVw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/oEFo9AUgUMFg8trfEZz2CmtNtRo\"",
+   "id": "z02Ie8wKKRg",
+   "statistics": {
+    "viewCount": "1953304",
+    "likeCount": "4045",
+    "dislikeCount": "222",
+    "favoriteCount": "0",
+    "commentCount": "1372"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/2zSCck9VV10wIXloxEcZR_JakvA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/hdClqygTy9ub7p7gtTcrgvx6ZlQ\"",
+   "id": "npvJ9FTgZbM",
+   "statistics": {
+    "viewCount": "13494877",
+    "likeCount": "55351",
+    "dislikeCount": "1993",
+    "favoriteCount": "0",
+    "commentCount": "13506"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/hPqJwNRawIyTAF2Er32qo-lIhLA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Q7E0Qczq8J68CQDPq9ojGACH8pc\"",
+   "id": "ety5kOjlXoU",
+   "statistics": {
+    "viewCount": "785552",
+    "likeCount": "1152",
+    "dislikeCount": "18",
+    "favoriteCount": "0",
+    "commentCount": "179"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/HLdS5_mK31i9i8eFuN529NSNS_A\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/XZNNA-b1UuyoW3XY-ZJ3lW-mCR4\"",
+   "id": "sN183rJltNM",
+   "statistics": {
+    "viewCount": "2501727",
+    "likeCount": "9964",
+    "dislikeCount": "222",
+    "favoriteCount": "0",
+    "commentCount": "3813"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/enXHe7FRBcouumDo7fEwEk1yKJA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VvAvBF4dxDISJNubxnCzJd5jUKE\"",
+   "id": "OiTiKOy59o4",
+   "statistics": {
+    "viewCount": "11387727",
+    "likeCount": "24103",
+    "dislikeCount": "2781",
+    "favoriteCount": "0",
+    "commentCount": "13686"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/siaHi0iFRZRl1fU7i6dGmnYdRDI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/sTta8UQDj3hjSrEkFjoGAjg248s\"",
+   "id": "yXoZCAVTzEQ",
+   "statistics": {
+    "viewCount": "1283266",
+    "likeCount": "5681",
+    "dislikeCount": "240",
+    "favoriteCount": "0",
+    "commentCount": "572"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ThfU_Agai6ZnuQP0l5cfnSmH5jc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/sRgFZyteP8DHAhrueNENf6ZNmww\"",
+   "id": "yGAktL45XNQ",
+   "statistics": {
+    "viewCount": "2349261",
+    "likeCount": "5979",
+    "dislikeCount": "288",
+    "favoriteCount": "0",
+    "commentCount": "1392"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/5tyXOxNwnxob8Ax9bcjRS7BNYf4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/eVQYeeR47reiUxM4mYaTX1stFbQ\"",
+   "id": "cjfuK5QJyEQ",
+   "statistics": {
+    "viewCount": "131181",
+    "likeCount": "160",
+    "dislikeCount": "10",
+    "favoriteCount": "0",
+    "commentCount": "19"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-aFsjob4e7ZrniF2lc-5BM1PNEQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/VqE1fMkkNEEFBhR2MNFrGhSyk_Q\"",
+   "id": "JjFsNSoDZK8",
+   "statistics": {
+    "viewCount": "7045228",
+    "likeCount": "14952",
+    "dislikeCount": "738",
+    "favoriteCount": "0",
+    "commentCount": "5943"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/LTrwMbdbJxNikqrNEUO6DKx6nA4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/RolvpopoqqXyvrtDk5KwjxrdYn8\"",
+   "id": "rvI66Xaj9-o",
+   "statistics": {
+    "viewCount": "4987011",
+    "likeCount": "3524",
+    "dislikeCount": "1352",
+    "favoriteCount": "0",
+    "commentCount": "7391"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dFjBPpEMBFrf7oM88BqGbaZ980k\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/fPcZP1ZXXdiicYl-0ogxjMwwsd8\"",
+   "id": "cdnoqCViqUo",
+   "statistics": {
+    "viewCount": "3647862",
+    "likeCount": "7599",
+    "dislikeCount": "497",
+    "favoriteCount": "0",
+    "commentCount": "2982"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/csWZCCLMV-xMFxxMG1QDT9oqrHo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/aG7xF6KAU6IIVta_ni4N5XPYG9o\"",
+   "id": "n4rTztvVx8E",
+   "statistics": {
+    "viewCount": "1462989",
+    "likeCount": "2058",
+    "dislikeCount": "200",
+    "favoriteCount": "0",
+    "commentCount": "765"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/5Yk5KhhoBIMCQK6Rx4MgWd2LiKg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/YJz1qUVaPqCFgvNDOEn9WDNQZyE\"",
+   "id": "Yma-g4gTwlE",
+   "statistics": {
+    "viewCount": "4646649",
+    "likeCount": "8596",
+    "dislikeCount": "478",
+    "favoriteCount": "0",
+    "commentCount": "2325"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/qmB4hTqtDiVt_9qIdbXKcvj8oSc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/8F0_whn8OT5NNKMD0nVjWr0RZ-w\"",
+   "id": "bpXfcTF6iVk",
+   "statistics": {
+    "viewCount": "4921915",
+    "likeCount": "9917",
+    "dislikeCount": "395",
+    "favoriteCount": "0",
+    "commentCount": "4270"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6yhk0wwF1A8ci2fohFpkv4hj320\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/xPEV5_WotUbdvV1D0y8jc9kfzbg\"",
+   "id": "6615kYTpOSU",
+   "statistics": {
+    "viewCount": "6918508",
+    "likeCount": "26841",
+    "dislikeCount": "770",
+    "favoriteCount": "0",
+    "commentCount": "6237"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/OE0M5DBGFYx7KRn9P9eov0yqPPQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6EVsRBlXDOCQbLF5xs2zrP-_x2M\"",
+   "id": "1bQSOBJCPQE",
+   "statistics": {
+    "viewCount": "3268407",
+    "likeCount": "7516",
+    "dislikeCount": "338",
+    "favoriteCount": "0",
+    "commentCount": "1728"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/NH2V0sdD6vdIUFzBSgCkLJpcFKE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Hh63JW96nMfmB_Dnc8vCObH95ro\"",
+   "id": "dA3XN54J8nY",
+   "statistics": {
+    "viewCount": "926470",
+    "likeCount": "1718",
+    "dislikeCount": "63",
+    "favoriteCount": "0",
+    "commentCount": "457"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/pFtdNrfZrL8g5Um4OBXYbgH49hs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/srrjUdj_ORsKpFlR5xo5Ljqza9Y\"",
+   "id": "XDTBLSkUmYk",
+   "statistics": {
+    "viewCount": "4774134",
+    "likeCount": "19395",
+    "dislikeCount": "422",
+    "favoriteCount": "0",
+    "commentCount": "3061"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/NRIbAzD1DrAFOEXiGS-TAj_1CU0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Wf7C3e2GQBBPOfe6EFhHJ7aip6Q\"",
+   "id": "Vjk2So3KvSQ",
+   "statistics": {
+    "viewCount": "5056996",
+    "likeCount": "9034",
+    "dislikeCount": "1096",
+    "favoriteCount": "0",
+    "commentCount": "3615"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/FKitfY_8Q7Jmddw-z7dF3BhSDGo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/V1xCG51idpUFN783dtBYo2doElI\"",
+   "id": "0Vsy5KzsieQ",
+   "statistics": {
+    "viewCount": "12242648",
+    "likeCount": "25874",
+    "dislikeCount": "1521",
+    "favoriteCount": "0",
+    "commentCount": "6075"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/KMvUO6vJ1vcz4X7bPqVejCKx6_w\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/oe-j4YBSRB_icp_Uz4PA1mXLrVE\"",
+   "id": "CI4EjV_x_PQ",
+   "statistics": {
+    "viewCount": "4104637",
+    "likeCount": "8894",
+    "dislikeCount": "414",
+    "favoriteCount": "0",
+    "commentCount": "2386"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/3uwde-8Mzjb0rBwPu_bv8ayBEfk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/yrG9T5wkJAG8axc0oejEIOK0r-A\"",
+   "id": "Vd20pywMXuY",
+   "statistics": {
+    "viewCount": "1919757",
+    "likeCount": "1771",
+    "dislikeCount": "698",
+    "favoriteCount": "0",
+    "commentCount": "1069"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/3vDnFXHELE2eV2VLrDmN66FiHSM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/FiyDXfGo4hStLdUneKBgJ2c4L60\"",
+   "id": "QAEkuVgt6Aw",
+   "statistics": {
+    "viewCount": "4465734",
+    "likeCount": "11269",
+    "dislikeCount": "515",
+    "favoriteCount": "0",
+    "commentCount": "6057"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/AjBlfDgv1pwo7mXNjwmIEcxoKTY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/K2QePVbp0Aq8MF5vYpwLs-TKvE8\"",
+   "id": "sUkZFetWYY0",
+   "statistics": {
+    "viewCount": "1109231",
+    "likeCount": "953",
+    "dislikeCount": "261",
+    "favoriteCount": "0",
+    "commentCount": "80"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ea9SFFO3ICQDMxk-k_KyPR3Bx14\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/R50oGr07nvX_A9x9_uy1koooX9E\"",
+   "id": "TvK3m0wJutI",
+   "statistics": {
+    "viewCount": "1356901",
+    "likeCount": "1867",
+    "dislikeCount": "177",
+    "favoriteCount": "0",
+    "commentCount": "290"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ia-t0gs1eeXMhHoNgSaz7S1cQLo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/KP12EfXd64bpMU-71XAFN7MmJlA\"",
+   "id": "FER3C394aI8",
+   "statistics": {
+    "viewCount": "2323296",
+    "likeCount": "2218",
+    "dislikeCount": "265",
+    "favoriteCount": "0",
+    "commentCount": "893"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/lHCxtVTTSrb9Kst5vF48C-62-bA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/2hyCPraZecHcjdckUhnkrWYbC34\"",
+   "id": "rvTW1JecmZo",
+   "statistics": {
+    "viewCount": "945189",
+    "likeCount": "1393",
+    "dislikeCount": "90",
+    "favoriteCount": "0",
+    "commentCount": "473"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/vUtqEje3fD1YlN6mxN3xGQ-6izY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_0SyQl7arhxCaZwExKuGzC7omvs\"",
+   "id": "nwZNypYmPFE",
+   "statistics": {
+    "viewCount": "3179574",
+    "likeCount": "7891",
+    "dislikeCount": "352",
+    "favoriteCount": "0",
+    "commentCount": "2130"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ThadiBdlvyqpuVDP2TNrLWL2l_8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/F-5E-x6tcMw6Tg76aJjytabCPSY\"",
+   "id": "g7kdUy5_WlI",
+   "statistics": {
+    "viewCount": "5097292",
+    "likeCount": "9268",
+    "dislikeCount": "422",
+    "favoriteCount": "0",
+    "commentCount": "2392"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/C7htlDdfwtorlFxAp1oDqB9acpM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/OZEyKxdF6_LhUGV2JwZ_5sFCgSc\"",
+   "id": "dQ3Mt9yiz6k",
+   "statistics": {
+    "viewCount": "4007428",
+    "likeCount": "10745",
+    "dislikeCount": "464",
+    "favoriteCount": "0",
+    "commentCount": "4498"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/nlLjzNtEaRuxEL9HDH4Q7AJldUE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/FuZJGyHVJdbuchKaUgpw6hfX_uI\"",
+   "id": "6qoaVUdbWMs",
+   "statistics": {
+    "viewCount": "1374966",
+    "likeCount": "3862",
+    "dislikeCount": "126",
+    "favoriteCount": "0",
+    "commentCount": "757"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/r-a5Q2L40fMdx3QDVzpKbewQ5vg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ZA2scxlhF2_loXxzXyUThDQibsM\"",
+   "id": "Lk_R04LfUQU",
+   "statistics": {
+    "viewCount": "1922792",
+    "likeCount": "2686",
+    "dislikeCount": "226",
+    "favoriteCount": "0",
+    "commentCount": "1107"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/LX33kB7fIYIuA43PHmZ0Ypc9i2g\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Cith-goW8v4kT0wfaF5vYOoOLg4\"",
+   "id": "A9fBCkwDW8c",
+   "statistics": {
+    "viewCount": "1339320",
+    "likeCount": "1930",
+    "dislikeCount": "262",
+    "favoriteCount": "0",
+    "commentCount": "592"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6jMFyCCnEGOBaFU6PhTOqgBQx8c\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/re-RC4lbdpb_UKeW9OgSoIF8j4o\"",
+   "id": "eOrNdBpGMv8",
+   "statistics": {
+    "viewCount": "20890702",
+    "likeCount": "71489",
+    "dislikeCount": "1761",
+    "favoriteCount": "0",
+    "commentCount": "38955"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/cqU0fBXzSomL04RCdQLGLTz1KvY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/QhmhVJOMB0KozV4MUTGdNaQDzyU\"",
+   "id": "m2UFx3UIEgA",
+   "statistics": {
+    "viewCount": "1648411",
+    "likeCount": "4908",
+    "dislikeCount": "239",
+    "favoriteCount": "0",
+    "commentCount": "940"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-SEjaQLPNQHn1rb5U96uViwF5CY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/UDElzkEJpYDLJlMqrngjO44Fg20\"",
+   "id": "mfmrPu43DF8",
+   "statistics": {
+    "viewCount": "4302593",
+    "likeCount": "9168",
+    "dislikeCount": "414",
+    "favoriteCount": "0",
+    "commentCount": "7217"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/zfopO4RcLf78hFTfIuLglaosKso\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/b2OrewdCqhYZnz6ZvehbBJ8hRi0\"",
+   "id": "g8evyE9TuYk",
+   "statistics": {
+    "viewCount": "29293271",
+    "likeCount": "106393",
+    "dislikeCount": "2919",
+    "favoriteCount": "0",
+    "commentCount": "92011"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Gsa3HgZCzm_LSmQ_54KHN4yk1K0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/vshS818OGFTMESOWHankQNWo69E\"",
+   "id": "eUdM9vrCbow",
+   "statistics": {
+    "viewCount": "11751621",
+    "likeCount": "31117",
+    "dislikeCount": "1405",
+    "favoriteCount": "0",
+    "commentCount": "19434"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ktjtnd4ihh8S_IliDeknF8nL-FE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ZgbQz4DN3GIVVAvaa5OOlrHbarA\"",
+   "id": "ZirgAYBcOgo",
+   "statistics": {
+    "viewCount": "6010708",
+    "likeCount": "9161",
+    "dislikeCount": "428",
+    "favoriteCount": "0",
+    "commentCount": "2629"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/txu_2zdg_E8yJZIMeNKtd5i2EIU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-jHzj2jZg4h-9luinIlaFCFclDc\"",
+   "id": "oaeVPdsVkyA",
+   "statistics": {
+    "viewCount": "2167808",
+    "likeCount": "3984",
+    "dislikeCount": "719",
+    "favoriteCount": "0",
+    "commentCount": "1669"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/lWyrXPdX69ffF2y-UQyE4C576j4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wN2aKpGwRlYINL-1duyqPGrPDtg\"",
+   "id": "IN63RwnB9NA",
+   "statistics": {
+    "viewCount": "9257",
+    "likeCount": "17",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/NcvgLDekCaZog9bnRMHolqI1sPY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/w8QpjEwI8CAsYpJkBI-r0-X5OIo\"",
+   "id": "Lj5_FhLaaQQ",
+   "statistics": {
+    "viewCount": "10748478",
+    "likeCount": "24894",
+    "dislikeCount": "764",
+    "favoriteCount": "0",
+    "commentCount": "7579"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/GYGWNfFLtt0drgi0VBJU7E8KmXI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/XffHkdqIADW6uHlXMaiPJ69sSGU\"",
+   "id": "ByehYal_cCs",
+   "statistics": {
+    "viewCount": "2026083",
+    "likeCount": "2639",
+    "dislikeCount": "120",
+    "favoriteCount": "0",
+    "commentCount": "903"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ub6EeBSj5jJWifiID705yahG7nY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Oj3pZOTnVKiVizqYoCfxa8Ca9-E\"",
+   "id": "i9Vt9sP8OY8",
+   "statistics": {
+    "viewCount": "3055056",
+    "likeCount": "2989",
+    "dislikeCount": "401",
+    "favoriteCount": "0",
+    "commentCount": "1155"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9GU6nvcW3yoGCkPO8_cC_1EelvE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/akVLYIBQUY-lMzHzwGrHQ_zIPw8\"",
+   "id": "eMU7s6cwxEM",
+   "statistics": {
+    "viewCount": "14815772",
+    "likeCount": "20234",
+    "dislikeCount": "2331",
+    "favoriteCount": "0",
+    "commentCount": "7652"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/GSVtAcb6URfqKZR2mkRXJvPUwIA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/5LEsB32UmFvedfY5jF77HtNssVc\"",
+   "id": "HHcHYisZFLU",
+   "statistics": {
+    "viewCount": "6479705",
+    "likeCount": "27802",
+    "dislikeCount": "661",
+    "favoriteCount": "0",
+    "commentCount": "14861"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/iFrGdPOQmXq9VkUXcHOg2CVks6w\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/2pBuhcyoUtBaRGnBQknfRhSD_bQ\"",
+   "id": "8YBlnHxkCJc",
+   "statistics": {
+    "viewCount": "1696691",
+    "likeCount": "2451",
+    "dislikeCount": "162",
+    "favoriteCount": "0",
+    "commentCount": "482"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/9cBCsaBXiD93LtyCsIotkvZdAAg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ChjjYiUtx51gSJEf0HRVt7XpFwA\"",
+   "id": "6kw1UVovByw",
+   "statistics": {
+    "viewCount": "21928209",
+    "likeCount": "43459",
+    "dislikeCount": "1893",
+    "favoriteCount": "0",
+    "commentCount": "18609"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/IPrsI-Z6XXWEty0sJR69AfgKqzs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/uTmSGcyj9clBZ56N1xVgLQd2hx0\"",
+   "id": "JW3WfSFgrVY",
+   "statistics": {
+    "viewCount": "907618",
+    "likeCount": "1462",
+    "dislikeCount": "263",
+    "favoriteCount": "0",
+    "commentCount": "1089"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/iVbnJ3LnsYxPQPdISmZ8uvuXoCs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ho3DKmNbvafEg7FJtjer3lIil88\"",
+   "id": "NsIilFNNmkY",
+   "statistics": {
+    "viewCount": "3775472",
+    "likeCount": "1530",
+    "dislikeCount": "167",
+    "favoriteCount": "0",
+    "commentCount": "1797"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/M0C7l7O-NcuTVYJY3MFKZ3TFfec\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/El9U66EFkNpqCfI7eXvyLsI_wxQ\"",
+   "id": "iJS-wWqVAyk",
+   "statistics": {
+    "viewCount": "7423020",
+    "likeCount": "11150",
+    "dislikeCount": "492",
+    "favoriteCount": "0",
+    "commentCount": "3822"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/4PtcQeKz_liBpyLIxlhSE2njtFo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/4bNDjotOlL87icWOchPRwWzMWQ8\"",
+   "id": "BvDR-0qNJuQ",
+   "statistics": {
+    "viewCount": "4684300",
+    "likeCount": "4276",
+    "dislikeCount": "356",
+    "favoriteCount": "0",
+    "commentCount": "1082"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ihmw4ESur5C32Gu8AxtDE41Ly9Y\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bI428NobPnYvO2xXhwmDwnCEZwE\"",
+   "id": "2-UMNSVX7_I",
+   "statistics": {
+    "viewCount": "7890525",
+    "likeCount": "22429",
+    "dislikeCount": "919",
+    "favoriteCount": "0",
+    "commentCount": "11186"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/yp_Z3hBS_Nx0Zf2vmwf6zzZSGXo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bwAg_JQkZKpklNLgtnbRo7GI6X4\"",
+   "id": "ieLIOBkMgAQ",
+   "statistics": {
+    "viewCount": "278620",
+    "likeCount": "1009",
+    "dislikeCount": "47",
+    "favoriteCount": "0",
+    "commentCount": "303"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/PKILLsVaRazem29X-cAY7yBXDzk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/FyzaL7AQa1ZMCjYUwpBQMIA0J50\"",
+   "id": "2iQuhsmtfHw",
+   "statistics": {
+    "viewCount": "5808432",
+    "likeCount": "10683",
+    "dislikeCount": "435",
+    "favoriteCount": "0",
+    "commentCount": "7006"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/JTnbkXodkN5QiWbtQEfHkfPkRz4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ii7EcoZO4ErJzedwyldkSdtDr4c\"",
+   "id": "cp3646Zf8rg",
+   "statistics": {
+    "viewCount": "3876508",
+    "likeCount": "7226",
+    "dislikeCount": "534",
+    "favoriteCount": "0",
+    "commentCount": "4901"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/oxELdQKbBLwr1161zlNKALjssI8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/BqB0MbWwdjHQFatIESDRkdW54cs\"",
+   "id": "lhUrWRV1cxs",
+   "statistics": {
+    "viewCount": "1334923",
+    "likeCount": "2678",
+    "dislikeCount": "126",
+    "favoriteCount": "0",
+    "commentCount": "1458"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/PKILLsVaRazem29X-cAY7yBXDzk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/FyzaL7AQa1ZMCjYUwpBQMIA0J50\"",
+   "id": "2iQuhsmtfHw",
+   "statistics": {
+    "viewCount": "5808432",
+    "likeCount": "10683",
+    "dislikeCount": "435",
+    "favoriteCount": "0",
+    "commentCount": "7006"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/kkhMTcA2FDpexgrw5u6cc-fheps\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0wEUp7kICQFduk8WlEMVijneKPA\"",
+   "id": "YxC_JNz5Vbg",
+   "statistics": {
+    "viewCount": "3895119",
+    "likeCount": "5137",
+    "dislikeCount": "1107",
+    "favoriteCount": "0",
+    "commentCount": "6264"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/S8LZRqrJYkhmCQHOhYiJtk7Zir0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/O61hVVXasT3cIqFwQyVPrNsQTdk\"",
+   "id": "CbCfqGsXu3M",
+   "statistics": {
+    "viewCount": "2694999",
+    "likeCount": "4334",
+    "dislikeCount": "577",
+    "favoriteCount": "0",
+    "commentCount": "4246"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Ep8Q48sRdcoQ3-X6is5p7cHQXMw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/cbSC84RU3YwWyyZfLQjdY9ophbU\"",
+   "id": "4Zl7S1LaPMU",
+   "statistics": {
+    "viewCount": "2818037",
+    "likeCount": "3348",
+    "dislikeCount": "190",
+    "favoriteCount": "0",
+    "commentCount": "1542"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/kVmv_KWCwkDk8Yy22rZ9tF4Yz4E\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/iPm43KZuhDbkuhg17Sg4E8gKe2A\"",
+   "id": "58oZRymxvgk",
+   "statistics": {
+    "viewCount": "325587",
+    "likeCount": "1451",
+    "dislikeCount": "137",
+    "favoriteCount": "0",
+    "commentCount": "412"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/X9wOQdHGTjO9GEOAzcyLh0xKaAQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/HB04FF2WiPb70-AQiYmpItgXDCg\"",
+   "id": "aqCcQOlDM4o",
+   "statistics": {
+    "viewCount": "2786294",
+    "likeCount": "7030",
+    "dislikeCount": "264",
+    "favoriteCount": "0",
+    "commentCount": "2385"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/l2Y64fxp1cSoNyDvVwtChHqb-5w\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/NeKDW_71OCMMVOzsva5iFm5EEOs\"",
+   "id": "FQ5R2iRtggA",
+   "statistics": {
+    "viewCount": "278359",
+    "likeCount": "1031",
+    "dislikeCount": "38",
+    "favoriteCount": "0",
+    "commentCount": "290"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/C_b4z1G1Wa7izBWCfMIF5PCM2vs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/e-EeNGx4ZR_WGVPSdtANeOnw3XI\"",
+   "id": "pgYxydrVlDk",
+   "statistics": {
+    "viewCount": "10036707",
+    "likeCount": "18747",
+    "dislikeCount": "1116",
+    "favoriteCount": "0",
+    "commentCount": "11472"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/UPMUCqhK59JdCfU_9cLNWtEt_Mo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/CWi18inis6jN-VU3Xrk6krCieQQ\"",
+   "id": "gccWbMTrgO4",
+   "statistics": {
+    "viewCount": "355837",
+    "likeCount": "543",
+    "dislikeCount": "79",
+    "favoriteCount": "0",
+    "commentCount": "244"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Wmr_4pGE3wL26B1oVvKTbb4A_O4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/lap4CHshbNAOXUVKChUMN4bEmMQ\"",
+   "id": "R1LYVpquqq4",
+   "statistics": {
+    "viewCount": "399754",
+    "likeCount": "1315",
+    "dislikeCount": "53",
+    "favoriteCount": "0",
+    "commentCount": "355"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/2qcjGgGuijEpkJEcIfDdS2p-WQg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/CpZWre9l7MNaQeIRufP2D_l8kl4\"",
+   "id": "KJVuqYkI2jQ",
+   "statistics": {
+    "viewCount": "2681248",
+    "likeCount": "5363",
+    "dislikeCount": "398",
+    "favoriteCount": "0",
+    "commentCount": "4840"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/C_Rs2W8t7GW3SN_BopPJkWV_ZGI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Gq4mMqVBXctdKfay-P1c6jo0_TQ\"",
+   "id": "PcL24s-S6ns",
+   "statistics": {
+    "viewCount": "2183293",
+    "likeCount": "5140",
+    "dislikeCount": "158",
+    "favoriteCount": "0",
+    "commentCount": "26"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/x5yK_xc3WCvSkcqxGtGnug32-dE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/54SJOZ9zozm_rSNO6Bq3yAJ7tcg\"",
+   "id": "-K3DPrrP2nw",
+   "statistics": {
+    "viewCount": "2914596",
+    "likeCount": "8549",
+    "dislikeCount": "234",
+    "favoriteCount": "0",
+    "commentCount": "1459"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/G1Pb1bBtZc81q0gonguniYqYk3o\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/D-hMNTaNirpZVcv2OFHobHfgXYA\"",
+   "id": "DiLL6ZW26wQ",
+   "statistics": {
+    "viewCount": "922171",
+    "likeCount": "1883",
+    "dislikeCount": "148",
+    "favoriteCount": "0",
+    "commentCount": "1133"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Cmy8Q7WLFvsp748zvndfKE8zaGU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/E3h7xFW7xwY26AghwGkMD89w8ag\"",
+   "id": "kh_8KF_RNcc",
+   "statistics": {
+    "viewCount": "363584",
+    "likeCount": "1121",
+    "dislikeCount": "99",
+    "favoriteCount": "0",
+    "commentCount": "603"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/3VrubpvJFk_953V4gYsSzM7133I\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/ks3QLNIJJpRZWtNFIrT_sO-uqZg\"",
+   "id": "dJNURJDko8Y",
+   "statistics": {
+    "viewCount": "740961",
+    "likeCount": "2024",
+    "dislikeCount": "277",
+    "favoriteCount": "0",
+    "commentCount": "703"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/X8aJRcwA2Xyp1nNPte6ga5UW69g\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6ZLtuCdWoi6ockTP_RJDfivnnGI\"",
+   "id": "7lReemWmO5o",
+   "statistics": {
+    "viewCount": "6440765",
+    "likeCount": "12972",
+    "dislikeCount": "566",
+    "favoriteCount": "0",
+    "commentCount": "11492"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/rghTUZjQRFAFI_Km8Jp8JnqxukE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Zfcf17oWtBIy3_zk7SNq1Ffc73A\"",
+   "id": "aEasHztgvh8",
+   "statistics": {
+    "viewCount": "6302404",
+    "likeCount": "15181",
+    "dislikeCount": "661",
+    "favoriteCount": "0",
+    "commentCount": "3529"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/e93Kr7Vkbbp4ApgveBc0Wnd5BGk\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bjeKQaUJFLGwN9JGOobKhrdzjSY\"",
+   "id": "IyaFEBI_L24",
+   "statistics": {
+    "viewCount": "16710052",
+    "likeCount": "67544",
+    "dislikeCount": "1181",
+    "favoriteCount": "0",
+    "commentCount": "19020"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/QgF2PGwyywspjvPiGD3gK9S9CRY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/H16epAep84gkh4Pckt9OKbcORDU\"",
+   "id": "mZEZ35Fhvuc",
+   "statistics": {
+    "viewCount": "9265339",
+    "likeCount": "20208",
+    "dislikeCount": "1117",
+    "favoriteCount": "0",
+    "commentCount": "9625"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/JYrAo6xj4xvuHoXkOv2gaSpv_J0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/bXdoNX-DpU0GFGGJgKPxb1PwPuQ\"",
+   "id": "nGcwSDNFcsU",
+   "statistics": {
+    "viewCount": "3302945",
+    "likeCount": "6306",
+    "dislikeCount": "293",
+    "favoriteCount": "0",
+    "commentCount": "3488"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Luvy5mGjX6XyZj0ZWThgMwKZuL0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/_u5dCYwe-znfRQGG1zNm8SJT6Tc\"",
+   "id": "eZqHhN4hVmg",
+   "statistics": {
+    "viewCount": "1560166",
+    "likeCount": "2565",
+    "dislikeCount": "133",
+    "favoriteCount": "0",
+    "commentCount": "568"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/WA6fuKuy_GvrIIi8FyyxqcyLEdg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/sR5zyURK0_fYeJv5B-2jiDvHaUE\"",
+   "id": "jSzy9qQ3mDE",
+   "statistics": {
+    "viewCount": "3192701",
+    "likeCount": "5836",
+    "dislikeCount": "407",
+    "favoriteCount": "0",
+    "commentCount": "3931"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/6iS2lNqkET3VU6QMrp03My7Ho84\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/o7I1_-zJar62pgKyIrNGNuW2EsY\"",
+   "id": "Y-HqyyfBbSo",
+   "statistics": {
+    "viewCount": "127416",
+    "likeCount": "78",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "15"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/cwscHGmA5UUjNMZ3J3PDy44Azw0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/YM6_rzUZnlbc6at2LZVGVuk7DbA\"",
+   "id": "ohkW_xbPl9A",
+   "statistics": {
+    "viewCount": "120734",
+    "likeCount": "144",
+    "dislikeCount": "8",
+    "favoriteCount": "0",
+    "commentCount": "23"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/r27dkqT_N2UShf12AWA2CwAYUu8\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/DkwNDKRSWfx6V_ubL-qfE_1_3VI\"",
+   "id": "Xs7fzOrUopc",
+   "statistics": {
+    "viewCount": "10436487",
+    "likeCount": "16996",
+    "dislikeCount": "864",
+    "favoriteCount": "0",
+    "commentCount": "10306"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/mOpsp9KApcVNvo_H6MCpKRmzV1g\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/X_Rbr5guwqW5CZLESdPgDJ4AXns\"",
+   "id": "pPAy56Otr-E",
+   "statistics": {
+    "viewCount": "2403793",
+    "likeCount": "3444",
+    "dislikeCount": "306",
+    "favoriteCount": "0",
+    "commentCount": "1793"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/h3_Iv2U32SEprByDgMgz5PzBAWM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/Jnan0vReCsDCd2rAKF3VLY9gXg8\"",
+   "id": "e99SkdcB2UU",
+   "statistics": {
+    "viewCount": "6471938",
+    "likeCount": "14133",
+    "dislikeCount": "1606",
+    "favoriteCount": "0",
+    "commentCount": "1989"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/wld0JGKiG-jcDUQs-WzmNA6MtLE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/MgHpV8Vdp5TPnb740Q5Uf-w_FZ4\"",
+   "id": "YWSdm4K-9_0",
+   "statistics": {
+    "viewCount": "1546019",
+    "likeCount": "2601",
+    "dislikeCount": "131",
+    "favoriteCount": "0",
+    "commentCount": "1086"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/w7176fKNmTDkJbLV69xnU_dbLzo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/RDmZipNlNXza7WenyN9jwnLsDUE\"",
+   "id": "cUkKuImX_ok",
+   "statistics": {
+    "viewCount": "2856966",
+    "likeCount": "9924",
+    "dislikeCount": "470",
+    "favoriteCount": "0",
+    "commentCount": "5108"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/k-J3-AASD18PfAPnRVxf5GVOcSI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/SDelfjg_NhdpO3cewSDKqg22xf8\"",
+   "id": "cYplvwBvGA4",
+   "statistics": {
+    "viewCount": "15827867",
+    "likeCount": "34852",
+    "dislikeCount": "2406",
+    "favoriteCount": "0",
+    "commentCount": "14097"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/dS7cdvcoSj_qu0IF1EpjgOo9o10\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/-mXSOfhqSkhxLNAXUwf3jFGMgk4\"",
+   "id": "M4L6ruTF5qE",
+   "statistics": {
+    "viewCount": "4112703",
+    "likeCount": "7957",
+    "dislikeCount": "394",
+    "favoriteCount": "0",
+    "commentCount": "2715"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/8qoktVrQlWI29TGoLzWytkYSmAE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/0--DE9IRdearsgi6hAprbih9j0E\"",
+   "id": "Gs_Em1XvAiU",
+   "statistics": {
+    "viewCount": "1492687",
+    "likeCount": "2952",
+    "dislikeCount": "214",
+    "favoriteCount": "0",
+    "commentCount": "1070"
+   }
+  }
+ ]
+}
+$$$$
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/UP4xlvkaHND-hobfoK79FgvyGb0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"OilNCqKLXpFjeQ5CI-_BZqeMuCo/2H4gsae_luE8T_HB1l-yZLy32h4\"",
+   "id": "gjmrDDD9o_k",
+   "statistics": {
+    "viewCount": "2907293",
+    "likeCount": "5613",
+    "dislikeCount": "187",
+    "favoriteCount": "0",
+    "commentCount": "1809"
+   }
+  }
+ ]
+}
+$$$$
