@@ -3,7 +3,7 @@ from contextlib import closing
 from selenium.webdriver import Firefox
 from selenium.webdriver.support.ui import WebDriverWait
 
-f = open("100movieCollections.txt",'a+')
+f = open("spoomovieCollections.txt",'a+')
 fp = open("imdbtest.txt","r") 
 baseURL = "http://www.imdb.com/title/"
 parameters = "/business?ref_=tt_dt_bus"
