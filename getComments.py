@@ -20,7 +20,7 @@ def comments_generator(client, video_id):
 
 client = service.YouTubeService()
 client.ClientLogin(USERNAME, PASSWORD)
-fp = open('100comments.txt','a+')
+fp = open('spoocomments.txt','a+')
 f = open('imdbtest.txt', 'r')
 for line in f:
 	#VIDEO_ID = str(line)
