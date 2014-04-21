@@ -20,8 +20,8 @@ def comments_generator(client, video_id):
 
 client = service.YouTubeService()
 client.ClientLogin(USERNAME, PASSWORD)
-fp = open('55comments.txt','a+')
-f = open('temp.txt', 'r')
+fp = open('100comments.txt','a+')
+f = open('imdbtest.txt', 'r')
 for line in f:
 	#VIDEO_ID = str(line)
 #	if(str(line) == VIDEO_ID):
